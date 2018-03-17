@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - initial
+  - next
   layers:
   - Default
   - TransparentFX
@@ -14,8 +16,8 @@ TagManager:
   - 
   - 
   - Dog
-  - Objects
-  - 
+  - Direction
+  - Stop
   - 
   - 
   - 
@@ -40,12 +42,6 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Water
-    uniqueID: 3498644863
-    locked: 0
-  - name: Objects
-    uniqueID: 2327969071
     locked: 0
   - name: Dog
     uniqueID: 3433143665
