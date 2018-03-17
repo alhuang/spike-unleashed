@@ -1,11 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Movement : MonoBehaviour {
 
 	Rigidbody2D rigid;
 	public float moveSpeed = 5;
+	public GameObject space;
 
 	// Use this for initialization
 	void Awake () {
@@ -27,5 +29,21 @@ public class Movement : MonoBehaviour {
 	void OnCollisionEnter(Collision other)
 	{
 		print ("wth");
+	}
+
+	void OnTriggerEnter2D(Collider2D other)
+	{
+		if (other.tag == "Trigger")
+		{
+			space.SetActive(true);
+
+		}
+
+	}
+
+	void OnTriggerExit2D(Collider2D other)
+	{
+		if (other.tag == "Trigger")
+			space.SetActive(false);
 	}
 }
