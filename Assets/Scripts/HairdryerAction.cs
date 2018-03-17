@@ -6,7 +6,9 @@ public class HairdryerAction : MonoBehaviour {
 
     public GameObject destinationObj;
 	public GameObject sparks;
+	public GameObject lights;
     private bool act = false;
+	public float flickertime = 0.1f;
 
 
 	// Use this for initialization
@@ -16,17 +18,38 @@ public class HairdryerAction : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        if (act)
-        {
+        
+    }
+
+	IEnumerator HairDryer()
+	{
+		while (act)
+		{
 			if (gameObject.transform.position == destinationObj.transform.position)
 			{
 				act = false;
 				Instantiate(sparks, destinationObj.transform.position, Quaternion.identity);
 			}
 			else
-				transform.position = Vector3.Lerp(transform.position, new Vector3(destinationObj.transform.position.x, destinationObj.transform.position.y) , 6 * Time.deltaTime);
-        }
-    }
+				transform.position = Vector3.Lerp(transform.position, destinationObj.transform.position, 6 * Time.deltaTime);
+			yield return new WaitForEndOfFrame();
+		}
+		lights.SetActive(true);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(false);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(true);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(false);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(true);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(false);
+		yield return new WaitForSeconds(flickertime);
+		lights.SetActive(true);
+
+	}
+
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -48,7 +71,8 @@ public class HairdryerAction : MonoBehaviour {
 
     private void moveToDestination()
     {
-        act = true;
+		act = true;
+		StartCoroutine(HairDryer());
     }
 
 }
