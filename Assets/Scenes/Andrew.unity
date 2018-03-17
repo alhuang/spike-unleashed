@@ -9170,6 +9170,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   destinationObj: {fileID: 2040490557}
+  sparks: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
 --- !u!212 &1722563081
 SpriteRenderer:
   m_ObjectHideFlags: 0
