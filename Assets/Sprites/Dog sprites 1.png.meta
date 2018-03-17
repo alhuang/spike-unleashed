@@ -1,106 +1,105 @@
 fileFormatVersion: 2
-guid: fd503dd4fe3b04e8e81b2245cde29312
-timeCreated: 1521243205
+guid: 049a804394fdd4db792d27e1f523d925
+timeCreated: 1521245264
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Dog sprites_0
-    21300002: Dog sprites_1
-    21300004: Dog sprites_2
-    21300006: Dog sprites_3
-    21300008: Dog sprites_4
-    21300010: Dog sprites_5
-    21300012: Dog sprites_6
-    21300014: Dog sprites_7
-    21300016: Dog sprites_8
-    21300018: Dog sprites_9
-    21300020: Dog sprites_10
-    21300022: Dog sprites_11
-    21300024: Dog sprites_12
-    21300026: Dog sprites_13
-    21300028: Dog sprites_14
-    21300030: Dog sprites_15
-    21300032: Dog sprites_16
-    21300034: Dog sprites_17
-    21300036: Dog sprites_18
-    21300038: Dog sprites_19
-    21300040: Dog sprites_20
-    21300042: Dog sprites_21
-    21300044: Dog sprites_22
-    21300046: Dog sprites_23
-    21300048: Dog sprites_24
-    21300050: Dog sprites_25
-    21300052: Dog sprites_26
-    21300054: Dog sprites_27
-    21300056: Dog sprites_28
-    21300058: Dog sprites_29
-    21300060: Dog sprites_30
-    21300062: Dog sprites_31
-    21300064: Dog sprites_32
-    21300066: Dog sprites_33
-    21300068: Dog sprites_34
-    21300070: Dog sprites_35
-    21300072: Dog sprites_36
-    21300074: Dog sprites_37
-    21300076: Dog sprites_38
-    21300078: Dog sprites_39
-    21300080: Dog sprites_40
-    21300082: Dog sprites_41
-    21300084: Dog sprites_42
-    21300086: Dog sprites_43
-    21300088: Dog sprites_44
-    21300090: Dog sprites_45
-    21300092: Dog sprites_46
-    21300094: Dog sprites_47
-    21300096: Dog sprites_48
-    21300098: Dog sprites_49
-    21300100: Dog sprites_50
-    21300102: Dog sprites_51
-    21300104: Dog sprites_52
-    21300106: Dog sprites_53
-    21300108: Dog sprites_54
-    21300110: Dog sprites_55
-    21300112: Dog sprites_56
-    21300114: Dog sprites_57
-    21300116: Dog sprites_58
-    21300118: Dog sprites_59
-    21300120: Dog sprites_60
-    21300122: Dog sprites_61
-    21300124: Dog sprites_62
-    21300126: Dog sprites_63
-    21300128: Dog sprites_64
-    21300130: Dog sprites_65
-    21300132: Dog sprites_66
-    21300134: Dog sprites_67
-    21300136: Dog sprites_68
-    21300138: Dog sprites_69
-    21300140: Dog sprites_70
-    21300142: Dog sprites_71
-    21300144: Dog sprites_72
-    21300146: Dog sprites_73
-    21300148: Dog sprites_74
-    21300150: Dog sprites_75
-    21300152: Dog sprites_76
-    21300154: Dog sprites_77
-    21300156: Dog sprites_78
-    21300158: Dog sprites_79
-    21300160: Dog sprites_80
-    21300162: Dog sprites_81
-    21300164: Dog sprites_82
-    21300166: Dog sprites_83
-    21300168: Dog sprites_84
-    21300170: Dog sprites_85
-    21300172: Dog sprites_86
-    21300174: Dog sprites_87
-    21300176: Dog sprites_88
-    21300178: Dog sprites_89
-    21300180: Dog sprites_90
-    21300182: Dog sprites_91
-    21300184: Dog sprites_92
-    21300186: Dog sprites_93
-    21300188: Dog sprites_94
-    21300190: Dog sprites_95
-    21300192: Dog sprites_96
+    21300000: Dog sprites 1_0
+    21300002: Dog sprites 1_1
+    21300004: Dog sprites 1_2
+    21300006: Dog sprites 1_3
+    21300008: Dog sprites 1_4
+    21300010: Dog sprites 1_5
+    21300012: Dog sprites 1_6
+    21300014: Dog sprites 1_7
+    21300016: Dog sprites 1_8
+    21300018: Dog sprites 1_9
+    21300020: Dog sprites 1_10
+    21300022: Dog sprites 1_11
+    21300024: Dog sprites 1_12
+    21300026: Dog sprites 1_13
+    21300028: Dog sprites 1_14
+    21300030: Dog sprites 1_15
+    21300032: Dog sprites 1_16
+    21300034: Dog sprites 1_17
+    21300036: Dog sprites 1_18
+    21300038: Dog sprites 1_19
+    21300040: Dog sprites 1_20
+    21300042: Dog sprites 1_21
+    21300044: Dog sprites 1_22
+    21300046: Dog sprites 1_23
+    21300048: Dog sprites 1_24
+    21300050: Dog sprites 1_25
+    21300052: Dog sprites 1_26
+    21300054: Dog sprites 1_27
+    21300056: Dog sprites 1_28
+    21300058: Dog sprites 1_29
+    21300060: Dog sprites 1_30
+    21300062: Dog sprites 1_31
+    21300064: Dog sprites 1_32
+    21300066: Dog sprites 1_33
+    21300068: Dog sprites 1_34
+    21300070: Dog sprites 1_35
+    21300072: Dog sprites 1_36
+    21300074: Dog sprites 1_37
+    21300076: Dog sprites 1_38
+    21300078: Dog sprites 1_39
+    21300080: Dog sprites 1_40
+    21300082: Dog sprites 1_41
+    21300084: Dog sprites 1_42
+    21300086: Dog sprites 1_43
+    21300088: Dog sprites 1_44
+    21300090: Dog sprites 1_45
+    21300092: Dog sprites 1_46
+    21300094: Dog sprites 1_47
+    21300096: Dog sprites 1_48
+    21300098: Dog sprites 1_49
+    21300100: Dog sprites 1_50
+    21300102: Dog sprites 1_51
+    21300104: Dog sprites 1_52
+    21300106: Dog sprites 1_53
+    21300108: Dog sprites 1_54
+    21300110: Dog sprites 1_55
+    21300112: Dog sprites 1_56
+    21300114: Dog sprites 1_57
+    21300116: Dog sprites 1_58
+    21300118: Dog sprites 1_59
+    21300120: Dog sprites 1_60
+    21300122: Dog sprites 1_61
+    21300124: Dog sprites 1_62
+    21300126: Dog sprites 1_63
+    21300128: Dog sprites 1_64
+    21300130: Dog sprites 1_65
+    21300132: Dog sprites 1_66
+    21300134: Dog sprites 1_67
+    21300136: Dog sprites 1_68
+    21300138: Dog sprites 1_69
+    21300140: Dog sprites 1_70
+    21300142: Dog sprites 1_71
+    21300144: Dog sprites 1_72
+    21300146: Dog sprites 1_73
+    21300148: Dog sprites 1_74
+    21300150: Dog sprites 1_75
+    21300152: Dog sprites 1_76
+    21300154: Dog sprites 1_77
+    21300156: Dog sprites 1_78
+    21300158: Dog sprites 1_79
+    21300160: Dog sprites 1_80
+    21300162: Dog sprites 1_81
+    21300164: Dog sprites 1_82
+    21300166: Dog sprites 1_83
+    21300168: Dog sprites 1_84
+    21300170: Dog sprites 1_85
+    21300172: Dog sprites 1_86
+    21300174: Dog sprites 1_87
+    21300176: Dog sprites 1_88
+    21300178: Dog sprites 1_89
+    21300180: Dog sprites 1_90
+    21300182: Dog sprites 1_91
+    21300184: Dog sprites 1_92
+    21300186: Dog sprites 1_93
+    21300188: Dog sprites 1_94
+    21300190: Dog sprites 1_95
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -217,7 +216,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dog sprites_0
+      name: Dog sprites 1_0
       rect:
         serializedVersion: 2
         x: 14
@@ -231,7 +230,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_1
+      name: Dog sprites 1_1
       rect:
         serializedVersion: 2
         x: 62
@@ -245,7 +244,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_2
+      name: Dog sprites 1_2
       rect:
         serializedVersion: 2
         x: 110
@@ -259,7 +258,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_3
+      name: Dog sprites 1_3
       rect:
         serializedVersion: 2
         x: 158
@@ -273,7 +272,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_4
+      name: Dog sprites 1_4
       rect:
         serializedVersion: 2
         x: 206
@@ -287,7 +286,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_5
+      name: Dog sprites 1_5
       rect:
         serializedVersion: 2
         x: 254
@@ -301,7 +300,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_6
+      name: Dog sprites 1_6
       rect:
         serializedVersion: 2
         x: 302
@@ -315,7 +314,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_7
+      name: Dog sprites 1_7
       rect:
         serializedVersion: 2
         x: 350
@@ -329,7 +328,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_8
+      name: Dog sprites 1_8
       rect:
         serializedVersion: 2
         x: 398
@@ -343,7 +342,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_9
+      name: Dog sprites 1_9
       rect:
         serializedVersion: 2
         x: 446
@@ -357,7 +356,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_10
+      name: Dog sprites 1_10
       rect:
         serializedVersion: 2
         x: 494
@@ -371,7 +370,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_11
+      name: Dog sprites 1_11
       rect:
         serializedVersion: 2
         x: 542
@@ -385,7 +384,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_12
+      name: Dog sprites 1_12
       rect:
         serializedVersion: 2
         x: 2
@@ -399,7 +398,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_13
+      name: Dog sprites 1_13
       rect:
         serializedVersion: 2
         x: 50
@@ -413,7 +412,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_14
+      name: Dog sprites 1_14
       rect:
         serializedVersion: 2
         x: 98
@@ -427,7 +426,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_15
+      name: Dog sprites 1_15
       rect:
         serializedVersion: 2
         x: 146
@@ -441,7 +440,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_16
+      name: Dog sprites 1_16
       rect:
         serializedVersion: 2
         x: 194
@@ -455,7 +454,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_17
+      name: Dog sprites 1_17
       rect:
         serializedVersion: 2
         x: 242
@@ -469,7 +468,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_18
+      name: Dog sprites 1_18
       rect:
         serializedVersion: 2
         x: 290
@@ -483,7 +482,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_19
+      name: Dog sprites 1_19
       rect:
         serializedVersion: 2
         x: 338
@@ -497,7 +496,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_20
+      name: Dog sprites 1_20
       rect:
         serializedVersion: 2
         x: 386
@@ -511,7 +510,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_21
+      name: Dog sprites 1_21
       rect:
         serializedVersion: 2
         x: 434
@@ -525,7 +524,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_22
+      name: Dog sprites 1_22
       rect:
         serializedVersion: 2
         x: 482
@@ -539,7 +538,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_23
+      name: Dog sprites 1_23
       rect:
         serializedVersion: 2
         x: 530
@@ -553,7 +552,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_24
+      name: Dog sprites 1_24
       rect:
         serializedVersion: 2
         x: 4
@@ -567,7 +566,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_25
+      name: Dog sprites 1_25
       rect:
         serializedVersion: 2
         x: 52
@@ -581,7 +580,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_26
+      name: Dog sprites 1_26
       rect:
         serializedVersion: 2
         x: 100
@@ -595,7 +594,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_27
+      name: Dog sprites 1_27
       rect:
         serializedVersion: 2
         x: 148
@@ -609,7 +608,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_28
+      name: Dog sprites 1_28
       rect:
         serializedVersion: 2
         x: 196
@@ -623,7 +622,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_29
+      name: Dog sprites 1_29
       rect:
         serializedVersion: 2
         x: 244
@@ -637,7 +636,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_30
+      name: Dog sprites 1_30
       rect:
         serializedVersion: 2
         x: 292
@@ -651,7 +650,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_31
+      name: Dog sprites 1_31
       rect:
         serializedVersion: 2
         x: 340
@@ -665,7 +664,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_32
+      name: Dog sprites 1_32
       rect:
         serializedVersion: 2
         x: 388
@@ -679,7 +678,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_33
+      name: Dog sprites 1_33
       rect:
         serializedVersion: 2
         x: 436
@@ -693,7 +692,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_34
+      name: Dog sprites 1_34
       rect:
         serializedVersion: 2
         x: 484
@@ -707,7 +706,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_35
+      name: Dog sprites 1_35
       rect:
         serializedVersion: 2
         x: 532
@@ -721,7 +720,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_36
+      name: Dog sprites 1_36
       rect:
         serializedVersion: 2
         x: 14
@@ -735,7 +734,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_37
+      name: Dog sprites 1_37
       rect:
         serializedVersion: 2
         x: 62
@@ -749,7 +748,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_38
+      name: Dog sprites 1_38
       rect:
         serializedVersion: 2
         x: 110
@@ -763,7 +762,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_39
+      name: Dog sprites 1_39
       rect:
         serializedVersion: 2
         x: 158
@@ -777,7 +776,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_40
+      name: Dog sprites 1_40
       rect:
         serializedVersion: 2
         x: 206
@@ -791,7 +790,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_41
+      name: Dog sprites 1_41
       rect:
         serializedVersion: 2
         x: 254
@@ -805,7 +804,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_42
+      name: Dog sprites 1_42
       rect:
         serializedVersion: 2
         x: 302
@@ -819,7 +818,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_43
+      name: Dog sprites 1_43
       rect:
         serializedVersion: 2
         x: 350
@@ -833,7 +832,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_44
+      name: Dog sprites 1_44
       rect:
         serializedVersion: 2
         x: 398
@@ -847,7 +846,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_45
+      name: Dog sprites 1_45
       rect:
         serializedVersion: 2
         x: 446
@@ -861,7 +860,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_46
+      name: Dog sprites 1_46
       rect:
         serializedVersion: 2
         x: 494
@@ -875,7 +874,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_47
+      name: Dog sprites 1_47
       rect:
         serializedVersion: 2
         x: 542
@@ -889,7 +888,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_48
+      name: Dog sprites 1_48
       rect:
         serializedVersion: 2
         x: 14
@@ -903,7 +902,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_49
+      name: Dog sprites 1_49
       rect:
         serializedVersion: 2
         x: 62
@@ -917,7 +916,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_50
+      name: Dog sprites 1_50
       rect:
         serializedVersion: 2
         x: 110
@@ -931,7 +930,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_51
+      name: Dog sprites 1_51
       rect:
         serializedVersion: 2
         x: 158
@@ -945,7 +944,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_52
+      name: Dog sprites 1_52
       rect:
         serializedVersion: 2
         x: 206
@@ -959,7 +958,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_53
+      name: Dog sprites 1_53
       rect:
         serializedVersion: 2
         x: 254
@@ -973,7 +972,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_54
+      name: Dog sprites 1_54
       rect:
         serializedVersion: 2
         x: 302
@@ -987,7 +986,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_55
+      name: Dog sprites 1_55
       rect:
         serializedVersion: 2
         x: 350
@@ -1001,7 +1000,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_56
+      name: Dog sprites 1_56
       rect:
         serializedVersion: 2
         x: 398
@@ -1015,7 +1014,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_57
+      name: Dog sprites 1_57
       rect:
         serializedVersion: 2
         x: 446
@@ -1029,7 +1028,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_58
+      name: Dog sprites 1_58
       rect:
         serializedVersion: 2
         x: 494
@@ -1043,7 +1042,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_59
+      name: Dog sprites 1_59
       rect:
         serializedVersion: 2
         x: 542
@@ -1057,7 +1056,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_60
+      name: Dog sprites 1_60
       rect:
         serializedVersion: 2
         x: 2
@@ -1071,7 +1070,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_61
+      name: Dog sprites 1_61
       rect:
         serializedVersion: 2
         x: 50
@@ -1085,7 +1084,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_62
+      name: Dog sprites 1_62
       rect:
         serializedVersion: 2
         x: 98
@@ -1099,7 +1098,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_63
+      name: Dog sprites 1_63
       rect:
         serializedVersion: 2
         x: 146
@@ -1113,7 +1112,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_64
+      name: Dog sprites 1_64
       rect:
         serializedVersion: 2
         x: 194
@@ -1127,7 +1126,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_65
+      name: Dog sprites 1_65
       rect:
         serializedVersion: 2
         x: 242
@@ -1141,7 +1140,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_66
+      name: Dog sprites 1_66
       rect:
         serializedVersion: 2
         x: 290
@@ -1155,7 +1154,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_67
+      name: Dog sprites 1_67
       rect:
         serializedVersion: 2
         x: 338
@@ -1169,7 +1168,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_68
+      name: Dog sprites 1_68
       rect:
         serializedVersion: 2
         x: 386
@@ -1183,7 +1182,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_69
+      name: Dog sprites 1_69
       rect:
         serializedVersion: 2
         x: 434
@@ -1197,7 +1196,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_70
+      name: Dog sprites 1_70
       rect:
         serializedVersion: 2
         x: 482
@@ -1211,7 +1210,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_71
+      name: Dog sprites 1_71
       rect:
         serializedVersion: 2
         x: 530
@@ -1225,7 +1224,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_72
+      name: Dog sprites 1_72
       rect:
         serializedVersion: 2
         x: 4
@@ -1239,7 +1238,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_73
+      name: Dog sprites 1_73
       rect:
         serializedVersion: 2
         x: 52
@@ -1253,7 +1252,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_74
+      name: Dog sprites 1_74
       rect:
         serializedVersion: 2
         x: 99
@@ -1267,7 +1266,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_75
+      name: Dog sprites 1_75
       rect:
         serializedVersion: 2
         x: 148
@@ -1281,7 +1280,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_76
+      name: Dog sprites 1_76
       rect:
         serializedVersion: 2
         x: 196
@@ -1295,7 +1294,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_77
+      name: Dog sprites 1_77
       rect:
         serializedVersion: 2
         x: 244
@@ -1309,7 +1308,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_78
+      name: Dog sprites 1_78
       rect:
         serializedVersion: 2
         x: 292
@@ -1323,7 +1322,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_79
+      name: Dog sprites 1_79
       rect:
         serializedVersion: 2
         x: 340
@@ -1337,7 +1336,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_80
+      name: Dog sprites 1_80
       rect:
         serializedVersion: 2
         x: 388
@@ -1351,7 +1350,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_81
+      name: Dog sprites 1_81
       rect:
         serializedVersion: 2
         x: 436
@@ -1365,7 +1364,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_82
+      name: Dog sprites 1_82
       rect:
         serializedVersion: 2
         x: 484
@@ -1379,7 +1378,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_83
+      name: Dog sprites 1_83
       rect:
         serializedVersion: 2
         x: 532
@@ -1393,12 +1392,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_84
+      name: Dog sprites 1_84
       rect:
         serializedVersion: 2
         x: 14
         y: 0
-        width: 21
+        width: 22
         height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1407,7 +1406,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_85
+      name: Dog sprites 1_85
       rect:
         serializedVersion: 2
         x: 62
@@ -1421,12 +1420,12 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_86
+      name: Dog sprites 1_86
       rect:
         serializedVersion: 2
         x: 110
         y: 0
-        width: 21
+        width: 22
         height: 35
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -1435,7 +1434,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_87
+      name: Dog sprites 1_87
       rect:
         serializedVersion: 2
         x: 158
@@ -1449,7 +1448,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_88
+      name: Dog sprites 1_88
       rect:
         serializedVersion: 2
         x: 206
@@ -1463,7 +1462,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_89
+      name: Dog sprites 1_89
       rect:
         serializedVersion: 2
         x: 254
@@ -1477,7 +1476,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_90
+      name: Dog sprites 1_90
       rect:
         serializedVersion: 2
         x: 302
@@ -1491,7 +1490,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_91
+      name: Dog sprites 1_91
       rect:
         serializedVersion: 2
         x: 350
@@ -1505,7 +1504,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_92
+      name: Dog sprites 1_92
       rect:
         serializedVersion: 2
         x: 398
@@ -1519,7 +1518,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_93
+      name: Dog sprites 1_93
       rect:
         serializedVersion: 2
         x: 446
@@ -1533,7 +1532,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_94
+      name: Dog sprites 1_94
       rect:
         serializedVersion: 2
         x: 494
@@ -1547,27 +1546,13 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Dog sprites_95
+      name: Dog sprites 1_95
       rect:
         serializedVersion: 2
         x: 542
         y: 0
         width: 21
         height: 35
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Dog sprites_96
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 335
-        width: 22
-        height: 33
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
