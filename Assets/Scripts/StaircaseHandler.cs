@@ -5,8 +5,8 @@ using UnityEngine;
 public class StaircaseHandler : MonoBehaviour {
 
     public Camera mainCamera;
-    public Vector3 firstFloorPosCam;
-    public Vector3 firstFloorPosDog;
+    public Vector3 camPos;
+    public Vector3 dogPos;
 
 	// Use this for initialization
 	void Start () {
@@ -27,7 +27,7 @@ public class StaircaseHandler : MonoBehaviour {
 
     IEnumerator MoveToFirstFloor(Collider2D other) {
         yield return new WaitForSeconds(0.5f);
-        other.gameObject.transform.position = firstFloorPosDog;
-        mainCamera.transform.position = firstFloorPosCam;
+        other.gameObject.transform.position = dogPos;
+        mainCamera.transform.position = camPos;
     }
 }
