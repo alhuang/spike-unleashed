@@ -1,0 +1,3117 @@
+fileFormatVersion: 2
+guid: aa57eb3bad733944b970737063df5a92
+timeCreated: 1521311392
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DS DSi - The Daring Game for Girls - Player Characters_0
+    21300002: DS DSi - The Daring Game for Girls - Player Characters_1
+    21300004: DS DSi - The Daring Game for Girls - Player Characters_2
+    21300006: DS DSi - The Daring Game for Girls - Player Characters_3
+    21300008: DS DSi - The Daring Game for Girls - Player Characters_4
+    21300010: DS DSi - The Daring Game for Girls - Player Characters_5
+    21300012: DS DSi - The Daring Game for Girls - Player Characters_6
+    21300014: DS DSi - The Daring Game for Girls - Player Characters_7
+    21300016: DS DSi - The Daring Game for Girls - Player Characters_8
+    21300018: DS DSi - The Daring Game for Girls - Player Characters_9
+    21300020: DS DSi - The Daring Game for Girls - Player Characters_10
+    21300022: DS DSi - The Daring Game for Girls - Player Characters_11
+    21300024: DS DSi - The Daring Game for Girls - Player Characters_12
+    21300026: DS DSi - The Daring Game for Girls - Player Characters_13
+    21300028: DS DSi - The Daring Game for Girls - Player Characters_14
+    21300030: DS DSi - The Daring Game for Girls - Player Characters_15
+    21300032: DS DSi - The Daring Game for Girls - Player Characters_16
+    21300034: DS DSi - The Daring Game for Girls - Player Characters_17
+    21300036: DS DSi - The Daring Game for Girls - Player Characters_18
+    21300038: DS DSi - The Daring Game for Girls - Player Characters_19
+    21300040: DS DSi - The Daring Game for Girls - Player Characters_20
+    21300042: DS DSi - The Daring Game for Girls - Player Characters_21
+    21300044: DS DSi - The Daring Game for Girls - Player Characters_22
+    21300046: DS DSi - The Daring Game for Girls - Player Characters_23
+    21300048: DS DSi - The Daring Game for Girls - Player Characters_24
+    21300050: DS DSi - The Daring Game for Girls - Player Characters_25
+    21300052: DS DSi - The Daring Game for Girls - Player Characters_26
+    21300054: DS DSi - The Daring Game for Girls - Player Characters_27
+    21300056: DS DSi - The Daring Game for Girls - Player Characters_28
+    21300058: DS DSi - The Daring Game for Girls - Player Characters_29
+    21300060: DS DSi - The Daring Game for Girls - Player Characters_30
+    21300062: DS DSi - The Daring Game for Girls - Player Characters_31
+    21300064: DS DSi - The Daring Game for Girls - Player Characters_32
+    21300066: DS DSi - The Daring Game for Girls - Player Characters_33
+    21300068: DS DSi - The Daring Game for Girls - Player Characters_34
+    21300070: DS DSi - The Daring Game for Girls - Player Characters_35
+    21300072: DS DSi - The Daring Game for Girls - Player Characters_36
+    21300074: DS DSi - The Daring Game for Girls - Player Characters_37
+    21300076: DS DSi - The Daring Game for Girls - Player Characters_38
+    21300078: DS DSi - The Daring Game for Girls - Player Characters_39
+    21300080: DS DSi - The Daring Game for Girls - Player Characters_40
+    21300082: DS DSi - The Daring Game for Girls - Player Characters_41
+    21300084: DS DSi - The Daring Game for Girls - Player Characters_42
+    21300086: DS DSi - The Daring Game for Girls - Player Characters_43
+    21300088: DS DSi - The Daring Game for Girls - Player Characters_44
+    21300090: DS DSi - The Daring Game for Girls - Player Characters_45
+    21300092: DS DSi - The Daring Game for Girls - Player Characters_46
+    21300094: DS DSi - The Daring Game for Girls - Player Characters_47
+    21300096: DS DSi - The Daring Game for Girls - Player Characters_48
+    21300098: DS DSi - The Daring Game for Girls - Player Characters_49
+    21300100: DS DSi - The Daring Game for Girls - Player Characters_50
+    21300102: DS DSi - The Daring Game for Girls - Player Characters_51
+    21300104: DS DSi - The Daring Game for Girls - Player Characters_52
+    21300106: DS DSi - The Daring Game for Girls - Player Characters_53
+    21300108: DS DSi - The Daring Game for Girls - Player Characters_54
+    21300110: DS DSi - The Daring Game for Girls - Player Characters_55
+    21300112: DS DSi - The Daring Game for Girls - Player Characters_56
+    21300114: DS DSi - The Daring Game for Girls - Player Characters_57
+    21300116: DS DSi - The Daring Game for Girls - Player Characters_58
+    21300118: DS DSi - The Daring Game for Girls - Player Characters_59
+    21300120: DS DSi - The Daring Game for Girls - Player Characters_60
+    21300122: DS DSi - The Daring Game for Girls - Player Characters_61
+    21300124: DS DSi - The Daring Game for Girls - Player Characters_62
+    21300126: DS DSi - The Daring Game for Girls - Player Characters_63
+    21300128: DS DSi - The Daring Game for Girls - Player Characters_64
+    21300130: DS DSi - The Daring Game for Girls - Player Characters_65
+    21300132: DS DSi - The Daring Game for Girls - Player Characters_66
+    21300134: DS DSi - The Daring Game for Girls - Player Characters_67
+    21300136: DS DSi - The Daring Game for Girls - Player Characters_68
+    21300138: DS DSi - The Daring Game for Girls - Player Characters_69
+    21300140: DS DSi - The Daring Game for Girls - Player Characters_70
+    21300142: DS DSi - The Daring Game for Girls - Player Characters_71
+    21300144: DS DSi - The Daring Game for Girls - Player Characters_72
+    21300146: DS DSi - The Daring Game for Girls - Player Characters_73
+    21300148: DS DSi - The Daring Game for Girls - Player Characters_74
+    21300150: DS DSi - The Daring Game for Girls - Player Characters_75
+    21300152: DS DSi - The Daring Game for Girls - Player Characters_76
+    21300154: DS DSi - The Daring Game for Girls - Player Characters_77
+    21300156: DS DSi - The Daring Game for Girls - Player Characters_78
+    21300158: DS DSi - The Daring Game for Girls - Player Characters_79
+    21300160: DS DSi - The Daring Game for Girls - Player Characters_80
+    21300162: DS DSi - The Daring Game for Girls - Player Characters_81
+    21300164: DS DSi - The Daring Game for Girls - Player Characters_82
+    21300166: DS DSi - The Daring Game for Girls - Player Characters_83
+    21300168: DS DSi - The Daring Game for Girls - Player Characters_84
+    21300170: DS DSi - The Daring Game for Girls - Player Characters_85
+    21300172: DS DSi - The Daring Game for Girls - Player Characters_86
+    21300174: DS DSi - The Daring Game for Girls - Player Characters_87
+    21300176: DS DSi - The Daring Game for Girls - Player Characters_88
+    21300178: DS DSi - The Daring Game for Girls - Player Characters_89
+    21300180: DS DSi - The Daring Game for Girls - Player Characters_90
+    21300182: DS DSi - The Daring Game for Girls - Player Characters_91
+    21300184: DS DSi - The Daring Game for Girls - Player Characters_92
+    21300186: DS DSi - The Daring Game for Girls - Player Characters_93
+    21300188: DS DSi - The Daring Game for Girls - Player Characters_94
+    21300190: DS DSi - The Daring Game for Girls - Player Characters_95
+    21300192: DS DSi - The Daring Game for Girls - Player Characters_96
+    21300194: DS DSi - The Daring Game for Girls - Player Characters_97
+    21300196: DS DSi - The Daring Game for Girls - Player Characters_98
+    21300198: DS DSi - The Daring Game for Girls - Player Characters_99
+    21300200: DS DSi - The Daring Game for Girls - Player Characters_100
+    21300202: DS DSi - The Daring Game for Girls - Player Characters_101
+    21300204: DS DSi - The Daring Game for Girls - Player Characters_102
+    21300206: DS DSi - The Daring Game for Girls - Player Characters_103
+    21300208: DS DSi - The Daring Game for Girls - Player Characters_104
+    21300210: DS DSi - The Daring Game for Girls - Player Characters_105
+    21300212: DS DSi - The Daring Game for Girls - Player Characters_106
+    21300214: DS DSi - The Daring Game for Girls - Player Characters_107
+    21300216: DS DSi - The Daring Game for Girls - Player Characters_108
+    21300218: DS DSi - The Daring Game for Girls - Player Characters_109
+    21300220: DS DSi - The Daring Game for Girls - Player Characters_110
+    21300222: DS DSi - The Daring Game for Girls - Player Characters_111
+    21300224: DS DSi - The Daring Game for Girls - Player Characters_112
+    21300226: DS DSi - The Daring Game for Girls - Player Characters_113
+    21300228: DS DSi - The Daring Game for Girls - Player Characters_114
+    21300230: DS DSi - The Daring Game for Girls - Player Characters_115
+    21300232: DS DSi - The Daring Game for Girls - Player Characters_116
+    21300234: DS DSi - The Daring Game for Girls - Player Characters_117
+    21300236: DS DSi - The Daring Game for Girls - Player Characters_118
+    21300238: DS DSi - The Daring Game for Girls - Player Characters_119
+    21300240: DS DSi - The Daring Game for Girls - Player Characters_120
+    21300242: DS DSi - The Daring Game for Girls - Player Characters_121
+    21300244: DS DSi - The Daring Game for Girls - Player Characters_122
+    21300246: DS DSi - The Daring Game for Girls - Player Characters_123
+    21300248: DS DSi - The Daring Game for Girls - Player Characters_124
+    21300250: DS DSi - The Daring Game for Girls - Player Characters_125
+    21300252: DS DSi - The Daring Game for Girls - Player Characters_126
+    21300254: DS DSi - The Daring Game for Girls - Player Characters_127
+    21300256: DS DSi - The Daring Game for Girls - Player Characters_128
+    21300258: DS DSi - The Daring Game for Girls - Player Characters_129
+    21300260: DS DSi - The Daring Game for Girls - Player Characters_130
+    21300262: DS DSi - The Daring Game for Girls - Player Characters_131
+    21300264: DS DSi - The Daring Game for Girls - Player Characters_132
+    21300266: DS DSi - The Daring Game for Girls - Player Characters_133
+    21300268: DS DSi - The Daring Game for Girls - Player Characters_134
+    21300270: DS DSi - The Daring Game for Girls - Player Characters_135
+    21300272: DS DSi - The Daring Game for Girls - Player Characters_136
+    21300274: DS DSi - The Daring Game for Girls - Player Characters_137
+    21300276: DS DSi - The Daring Game for Girls - Player Characters_138
+    21300278: DS DSi - The Daring Game for Girls - Player Characters_139
+    21300280: DS DSi - The Daring Game for Girls - Player Characters_140
+    21300282: DS DSi - The Daring Game for Girls - Player Characters_141
+    21300284: DS DSi - The Daring Game for Girls - Player Characters_142
+    21300286: DS DSi - The Daring Game for Girls - Player Characters_143
+    21300288: DS DSi - The Daring Game for Girls - Player Characters_144
+    21300290: DS DSi - The Daring Game for Girls - Player Characters_145
+    21300292: DS DSi - The Daring Game for Girls - Player Characters_146
+    21300294: DS DSi - The Daring Game for Girls - Player Characters_147
+    21300296: DS DSi - The Daring Game for Girls - Player Characters_148
+    21300298: DS DSi - The Daring Game for Girls - Player Characters_149
+    21300300: DS DSi - The Daring Game for Girls - Player Characters_150
+    21300302: DS DSi - The Daring Game for Girls - Player Characters_151
+    21300304: DS DSi - The Daring Game for Girls - Player Characters_152
+    21300306: DS DSi - The Daring Game for Girls - Player Characters_153
+    21300308: DS DSi - The Daring Game for Girls - Player Characters_154
+    21300310: DS DSi - The Daring Game for Girls - Player Characters_155
+    21300312: DS DSi - The Daring Game for Girls - Player Characters_156
+    21300314: DS DSi - The Daring Game for Girls - Player Characters_157
+    21300316: DS DSi - The Daring Game for Girls - Player Characters_158
+    21300318: DS DSi - The Daring Game for Girls - Player Characters_159
+    21300320: DS DSi - The Daring Game for Girls - Player Characters_160
+    21300322: DS DSi - The Daring Game for Girls - Player Characters_161
+    21300324: DS DSi - The Daring Game for Girls - Player Characters_162
+    21300326: DS DSi - The Daring Game for Girls - Player Characters_163
+    21300328: DS DSi - The Daring Game for Girls - Player Characters_164
+    21300330: DS DSi - The Daring Game for Girls - Player Characters_165
+    21300332: DS DSi - The Daring Game for Girls - Player Characters_166
+    21300334: DS DSi - The Daring Game for Girls - Player Characters_167
+    21300336: DS DSi - The Daring Game for Girls - Player Characters_168
+    21300338: DS DSi - The Daring Game for Girls - Player Characters_169
+    21300340: DS DSi - The Daring Game for Girls - Player Characters_170
+    21300342: DS DSi - The Daring Game for Girls - Player Characters_171
+    21300344: DS DSi - The Daring Game for Girls - Player Characters_172
+    21300346: DS DSi - The Daring Game for Girls - Player Characters_173
+    21300348: DS DSi - The Daring Game for Girls - Player Characters_174
+    21300350: DS DSi - The Daring Game for Girls - Player Characters_175
+    21300352: DS DSi - The Daring Game for Girls - Player Characters_176
+    21300354: DS DSi - The Daring Game for Girls - Player Characters_177
+    21300356: DS DSi - The Daring Game for Girls - Player Characters_178
+    21300358: DS DSi - The Daring Game for Girls - Player Characters_179
+    21300360: DS DSi - The Daring Game for Girls - Player Characters_180
+    21300362: DS DSi - The Daring Game for Girls - Player Characters_181
+    21300364: DS DSi - The Daring Game for Girls - Player Characters_182
+    21300366: DS DSi - The Daring Game for Girls - Player Characters_183
+    21300368: DS DSi - The Daring Game for Girls - Player Characters_184
+    21300370: DS DSi - The Daring Game for Girls - Player Characters_185
+    21300372: DS DSi - The Daring Game for Girls - Player Characters_186
+    21300374: DS DSi - The Daring Game for Girls - Player Characters_187
+    21300376: DS DSi - The Daring Game for Girls - Player Characters_188
+    21300378: DS DSi - The Daring Game for Girls - Player Characters_189
+    21300380: DS DSi - The Daring Game for Girls - Player Characters_190
+    21300382: DS DSi - The Daring Game for Girls - Player Characters_191
+    21300384: DS DSi - The Daring Game for Girls - Player Characters_192
+    21300386: DS DSi - The Daring Game for Girls - Player Characters_193
+    21300388: DS DSi - The Daring Game for Girls - Player Characters_194
+    21300390: DS DSi - The Daring Game for Girls - Player Characters_195
+    21300392: DS DSi - The Daring Game for Girls - Player Characters_196
+    21300394: DS DSi - The Daring Game for Girls - Player Characters_197
+    21300396: DS DSi - The Daring Game for Girls - Player Characters_198
+    21300398: DS DSi - The Daring Game for Girls - Player Characters_199
+    21300400: DS DSi - The Daring Game for Girls - Player Characters_200
+    21300402: DS DSi - The Daring Game for Girls - Player Characters_201
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 479
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 479
+        width: 22
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 478
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 479
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 479
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 479
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_6
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 478
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_7
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 478
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_8
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 477
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_9
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 478
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 478
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_11
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 478
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_12
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 478
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_13
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 477
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 478
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_15
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 478
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_16
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 480
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_17
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 480
+        width: 27
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_18
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 479
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_19
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 480
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_20
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 480
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_21
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 412
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_22
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 407
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 408
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_24
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 412
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_25
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 413
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 409
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 407
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_28
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 410
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_29
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 414
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 415
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_31
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 410
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_32
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 411
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_33
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 415
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_34
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 416
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_35
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 412
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_36
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 410
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_37
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 413
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_38
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 417
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_39
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 415
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_40
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 410
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_41
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 411
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_42
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 415
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_43
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 416
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_44
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 412
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_45
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 410
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_46
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 413
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_47
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 417
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 417
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_49
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 412
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_50
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 413
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_51
+      rect:
+        serializedVersion: 2
+        x: 1007
+        y: 417
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_52
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 418
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_53
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 414
+        width: 26
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_54
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 412
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_55
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 415
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_56
+      rect:
+        serializedVersion: 2
+        x: 1167
+        y: 419
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_57
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 344
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_58
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 338
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 339
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_60
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 342
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_61
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 346
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_62
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 342
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_63
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 340
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_64
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 342
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_65
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 345
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_66
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 347
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_67
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 341
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_68
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 342
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_69
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 345
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_70
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 349
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_71
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 345
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_72
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 343
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_73
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 345
+        width: 19
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_74
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 348
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_75
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 348
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_76
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 342
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_77
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 343
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_78
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 346
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_79
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 350
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_80
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 346
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_81
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 344
+        width: 20
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_82
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 346
+        width: 18
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_83
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 349
+        width: 21
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_84
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 347
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_85
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 341
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_86
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 342
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_87
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 345
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_88
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 349
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_89
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 345
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_90
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 343
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_91
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 345
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_92
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 348
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_93
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 276
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_94
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 271
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_95
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 270
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 270
+        width: 27
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_97
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 276
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_98
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 275
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_99
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 271
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_100
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 272
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_101
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 275
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 279
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_103
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 274
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_104
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 273
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_105
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 273
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_106
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 279
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_107
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 278
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_108
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 274
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_109
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 275
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_110
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 278
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_111
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 280
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_112
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 275
+        width: 25
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_113
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 274
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_114
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 274
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_115
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 280
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_116
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 279
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_117
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 275
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_118
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 276
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_119
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 279
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_120
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 279
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_121
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 274
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_122
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 273
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_123
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 273
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_124
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 279
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_125
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 278
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_126
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 274
+        width: 24
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_127
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 275
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_128
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 278
+        width: 28
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_129
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 201
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_130
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 199
+        width: 23
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_131
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 199
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_132
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 197
+        width: 21
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_133
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 201
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_134
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 200
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 198
+        width: 22
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_136
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 199
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_137
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 200
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_138
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 202
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_139
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 200
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_140
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 200
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_141
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 198
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_142
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 202
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_143
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 201
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_144
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 199
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_145
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 200
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_146
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 201
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_147
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 204
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_148
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 202
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_149
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 202
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_150
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 200
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_151
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 204
+        width: 21
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_152
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 203
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_153
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 201
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_154
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 202
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_155
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 203
+        width: 23
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_156
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 204
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_157
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 203
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_158
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 202
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_159
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 200
+        width: 26
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_160
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 204
+        width: 27
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_161
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 203
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_162
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 201
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_163
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 202
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_164
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 203
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_165
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 129
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_166
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 128
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_167
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_168
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 127
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_169
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 130
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_170
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 129
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_171
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 128
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_172
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 128
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_173
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 128
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_174
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 129
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_175
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 128
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_176
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 129
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_177
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 127
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_178
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 130
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_179
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 129
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_180
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 128
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_181
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 128
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_182
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 128
+        width: 16
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_183
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 130
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_184
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 129
+        width: 16
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_185
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 130
+        width: 16
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_186
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 128
+        width: 17
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_187
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 131
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_188
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 130
+        width: 17
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_189
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 129
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_190
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 129
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_191
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 129
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_192
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 129
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_193
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 128
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_194
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 130
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_195
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 127
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_196
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 130
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_197
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 129
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_198
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 128
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_199
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 128
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_200
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 128
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DS DSi - The Daring Game for Girls - Player Characters_201
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 0
+        width: 158
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
