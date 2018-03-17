@@ -4206,8 +4206,8 @@ Tilemap:
       m_ColliderType: 1
   - first: {x: -3, y: 4, z: 0}
     second:
-      m_TileIndex: 2
-      m_TileSpriteIndex: 2
+      m_TileIndex: 8
+      m_TileSpriteIndex: 8
       m_TileMatrixIndex: 0
       m_TileColorIndex: 0
       m_ObjectToInstantiate: {fileID: 0}
@@ -4408,7 +4408,7 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 63f8f44ab2ffc78489ff6abfad4ed8b4, type: 2}
   - m_RefCount: 2
     m_Data: {fileID: 11400000, guid: 703c59f55b76f964281012f8cf7ca178, type: 2}
-  - m_RefCount: 42
+  - m_RefCount: 41
     m_Data: {fileID: 11400000, guid: 819a72a61349e164d962188cee618a84, type: 2}
   - m_RefCount: 112
     m_Data: {fileID: 11400000, guid: 3a694e6ca6ecb924e97f0de987fce4ce, type: 2}
@@ -4420,12 +4420,14 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: 1372602c47a30f54db2c6892c6fdde55, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: bb4f6c20f5e21234b9b97992613dc1f9, type: 2}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: 71a85d62831fc4c4a8f282f3eaa202ab, type: 2}
   m_TileSpriteArray:
   - m_RefCount: 308
     m_Data: {fileID: 21300000, guid: 9227d402985c44bd0bcab239ec354900, type: 3}
   - m_RefCount: 2
     m_Data: {fileID: 21300000, guid: e601cddee9c174f2fa9eb717a2b524d6, type: 3}
-  - m_RefCount: 42
+  - m_RefCount: 41
     m_Data: {fileID: 21300000, guid: 1293176b70a7547ce99a56c1254242ee, type: 3}
   - m_RefCount: 112
     m_Data: {fileID: 21300000, guid: f9437fa5c67c7480d94bf8d8ad52d0d8, type: 3}
@@ -4437,6 +4439,8 @@ Tilemap:
     m_Data: {fileID: 21300000, guid: 2af035eb211b04938b4a146e28875699, type: 3}
   - m_RefCount: 1
     m_Data: {fileID: 21300000, guid: e763f58f8fd4247aba78b2fc99f100fc, type: 3}
+  - m_RefCount: 1
+    m_Data: {fileID: 21300000, guid: 3dd3c915373d941fa86131826ca5dbc5, type: 3}
   m_TileMatrixArray:
   - m_RefCount: 468
     m_Data:
@@ -4483,6 +4487,8 @@ Tilemap:
     e32: 0
     e33: 1
   m_TileRefreshArray:
+  - serializedVersion: 1
+    m_DirtyIndex: 0
   - serializedVersion: 1
     m_DirtyIndex: 0
   - serializedVersion: 1
