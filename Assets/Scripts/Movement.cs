@@ -23,4 +23,9 @@ public class Movement : MonoBehaviour {
 
 		rigid.velocity = velocity;
 	}
+
+	void OnCollisionEnter(Collision other)
+	{
+		print ("wth");
+	}
 }
