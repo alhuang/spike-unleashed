@@ -6,6 +6,7 @@ TagManager:
   tags:
   - initial
   - next
+  - Trigger
   layers:
   - Default
   - TransparentFX
