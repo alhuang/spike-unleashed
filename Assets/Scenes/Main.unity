@@ -326,6 +326,16 @@ Prefab:
       propertyPath: mainCamera
       value: 
       objectReference: {fileID: 576226707}
+    - target: {fileID: 114379044435368796, guid: db220baddb4be854cadf53237f7d9d05,
+        type: 2}
+      propertyPath: camPos.y
+      value: -3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114379044435368796, guid: db220baddb4be854cadf53237f7d9d05,
+        type: 2}
+      propertyPath: camPos.z
+      value: -18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db220baddb4be854cadf53237f7d9d05, type: 2}
   m_IsPrefabParent: 0
@@ -9482,8 +9492,8 @@ Camera:
   m_GameObject: {fileID: 576226704}
   m_Enabled: 1
   serializedVersion: 2
-  m_ClearFlags: 1
-  m_BackGroundColor: {r: 0.19215687, g: 0.3019608, b: 0.4745098, a: 0}
+  m_ClearFlags: 2
+  m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
     x: 0
@@ -9517,7 +9527,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 576226704}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6, y: -4, z: -17}
+  m_LocalPosition: {x: 6, y: -3, z: -18}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -10322,6 +10332,16 @@ Prefab:
       propertyPath: mainCamera
       value: 
       objectReference: {fileID: 576226707}
+    - target: {fileID: 114822887693935454, guid: 5c3bbc7f660bfca48b5e9eac41aca900,
+        type: 2}
+      propertyPath: camPos.y
+      value: -35
+      objectReference: {fileID: 0}
+    - target: {fileID: 114822887693935454, guid: 5c3bbc7f660bfca48b5e9eac41aca900,
+        type: 2}
+      propertyPath: camPos.z
+      value: -18
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c3bbc7f660bfca48b5e9eac41aca900, type: 2}
   m_IsPrefabParent: 0
