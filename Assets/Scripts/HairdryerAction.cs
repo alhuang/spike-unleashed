@@ -5,6 +5,7 @@ using UnityEngine;
 public class HairdryerAction : MonoBehaviour {
 
     public GameObject destinationObj;
+	public GameObject sparks;
     private bool act = false;
 
 
@@ -17,10 +18,13 @@ public class HairdryerAction : MonoBehaviour {
 	void Update () {
         if (act)
         {
-            if (gameObject.transform.position == destinationObj.transform.position)
-                act = false;
-            else
-                transform.position = Vector3.Lerp(transform.position, destinationObj.transform.position, 6 * Time.deltaTime);
+			if (gameObject.transform.position == destinationObj.transform.position)
+			{
+				act = false;
+				Instantiate(sparks, destinationObj.transform.position, Quaternion.identity);
+			}
+			else
+				transform.position = Vector3.Lerp(transform.position, new Vector3(destinationObj.transform.position.x, destinationObj.transform.position.y) , 6 * Time.deltaTime);
         }
     }
 
