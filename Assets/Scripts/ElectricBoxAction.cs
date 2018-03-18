@@ -35,12 +35,12 @@ public class ElectricBoxAction : MonoBehaviour {
     IEnumerator BlinkyDoor() {
         wire.GetComponent<SpriteRenderer>().sprite = brokenWire;
         door.SetActive(true);
-        yield return new WaitForSeconds(.2f);
-        for (int i = 1; i < 4; i++) {
+        yield return new WaitForSeconds(.1f);
+        for (int i = 1; i < 3; i++) {
             door.SetActive(false);
-            yield return new WaitForSeconds(0.2f * i);
+            yield return new WaitForSeconds(0.1f * i);
             door.SetActive(true);
-            yield return new WaitForSeconds(0.2f * i);
+            yield return new WaitForSeconds(0.1f * i);
             door.SetActive(false);
         }
         if (attached) {
