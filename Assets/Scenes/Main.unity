@@ -20957,6 +20957,11 @@ Prefab:
       propertyPath: m_TagString
       value: Dog
       objectReference: {fileID: 0}
+    - target: {fileID: 114645343908141120, guid: 12ae26a743cbc4253af574bea3142177,
+        type: 2}
+      propertyPath: phonering
+      value: 
+      objectReference: {fileID: 8300000, guid: 8e088d094ebf232499b88cf8d68b7fcf, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 12ae26a743cbc4253af574bea3142177, type: 2}
   m_IsPrefabParent: 0
