@@ -8,6 +8,8 @@ public class StaircaseHandler : MonoBehaviour {
     public Vector3 camPos;
     public Vector3 dogPos;
     public GameObject darkness;
+	public AudioClip knock;
+	bool alreadydone = false;
 
 	// Use this for initialization
 	void Start () {
@@ -22,7 +24,7 @@ public class StaircaseHandler : MonoBehaviour {
     void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.layer == LayerMask.NameToLayer("Dog") && darkness.activeSelf) {
             Debug.Log("Dog entered door");
-            StartCoroutine(MoveToFirstFloor(other));
+			StartCoroutine(MoveToFirstFloor(other));
         }
     }
 
@@ -31,8 +33,13 @@ public class StaircaseHandler : MonoBehaviour {
         other.gameObject.transform.position = dogPos;
         mainCamera.transform.position = camPos;
         yield return new WaitForSeconds(0.5f);
-        PanelController.instance.SFX("*KNOCK*  *KNOCK*  *KNOCK*");
-        yield return new WaitForSeconds(2.0f);
-        PanelController.instance.Human("COMING!");
+		if (knock != null && !alreadydone)
+		{
+			AudioSource.PlayClipAtPoint(knock, Camera.main.transform.position);
+			PanelController.instance.SFX("*KNOCK*  *KNOCK*  *KNOCK*");
+			yield return new WaitForSeconds(2.0f);
+			PanelController.instance.Human("COMING!");
+			alreadydone = true;
+		}
     }
 }

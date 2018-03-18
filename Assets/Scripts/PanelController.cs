@@ -49,7 +49,8 @@ public class PanelController : MonoBehaviour {
             StopCoroutine(clearing);
         }
         i.gameObject.SetActive(true);
-        typewriter.gameObject.SetActive(true);
+		i.enabled = true;
+		typewriter.gameObject.SetActive(true);
         i.sprite = dogSprite;
 		typewriter.ChangeText(text);
         clearing = StartCoroutine(Clear());
@@ -62,7 +63,8 @@ public class PanelController : MonoBehaviour {
             StopCoroutine(clearing);
         }
         i.gameObject.SetActive(true);
-        typewriter.gameObject.SetActive(true);
+		i.enabled = true;
+		typewriter.gameObject.SetActive(true);
         i.sprite = humanSprite;
 		typewriter.ChangeText(text);
         clearing = StartCoroutine(Clear());

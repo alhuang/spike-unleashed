@@ -505,9 +505,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: Locked. *Woof*
-  timeInbetween: 1.5
-  text2: I need to get this open somehow...
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &49091969
 GameObject:
   m_ObjectHideFlags: 0
@@ -818,6 +818,11 @@ Prefab:
       propertyPath: darkness
       value: 
       objectReference: {fileID: 822866311}
+    - target: {fileID: 114379044435368796, guid: db220baddb4be854cadf53237f7d9d05,
+        type: 2}
+      propertyPath: knock
+      value: 
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db220baddb4be854cadf53237f7d9d05, type: 2}
   m_IsPrefabParent: 0
@@ -17990,6 +17995,7 @@ MonoBehaviour:
   camPos: {x: 0, y: 0, z: 0}
   dogPos: {x: 0, y: 0, z: 0}
   darkness: {fileID: 0}
+  knock: {fileID: 0}
 --- !u!114 &329435399
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18313,9 +18319,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: '*Sniff* *Sniff*'
-  timeInbetween: 1.5
-  text2: Fresh!
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &387499284
 GameObject:
   m_ObjectHideFlags: 0
@@ -18479,9 +18485,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: Locked. *Woof*
-  timeInbetween: 1.5
-  text2: '"I need to get this open somehow..."'
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &445264139
 GameObject:
   m_ObjectHideFlags: 0
@@ -19064,9 +19070,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: '*Sniff* *Sniff*'
-  timeInbetween: 1
-  text2: Fresh!
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &647315595
 GameObject:
   m_ObjectHideFlags: 0
@@ -20841,9 +20847,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: '*Sniff* *Sniff*'
-  timeInbetween: 1.5
-  text2: Smells like the outdoors...
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &1310918318
 GameObject:
   m_ObjectHideFlags: 0
@@ -21333,9 +21339,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: '*Sniff* *Sniff*'
-  timeInbetween: 1.5
-  text2: I wish I could be outside...
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &1514497028
 GameObject:
   m_ObjectHideFlags: 0
@@ -21471,6 +21477,11 @@ Prefab:
       propertyPath: darkness
       value: 
       objectReference: {fileID: 822866311}
+    - target: {fileID: 114822887693935454, guid: 5c3bbc7f660bfca48b5e9eac41aca900,
+        type: 2}
+      propertyPath: knock
+      value: 
+      objectReference: {fileID: 8300000, guid: eb58b164441058044b5a2e6de8394cfd, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c3bbc7f660bfca48b5e9eac41aca900, type: 2}
   m_IsPrefabParent: 0
@@ -25747,9 +25758,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: '*Sniff* *Sniff*'
-  timeInbetween: 1.5
-  text2: I wish I could be outside...
+  text1: 
+  timeInbetween: 0
+  text2: 
 --- !u!1 &1960465469
 GameObject:
   m_ObjectHideFlags: 0
