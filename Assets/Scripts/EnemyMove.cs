@@ -73,6 +73,7 @@ public class EnemyMove : MonoBehaviour {
 			}
 			stopped = true;
 		} else if (LayerMask.LayerToName (other.gameObject.layer) == "Staircase") {
+            Debug.Log("Staircase destroy");
 			Destroy (this.gameObject);
 		}
 	}
