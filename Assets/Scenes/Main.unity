@@ -506,7 +506,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text1: Locked. *Woof*
-  timeInbetween: 0
+  timeInbetween: 1.5
   text2: I need to get this open somehow...
 --- !u!1 &49091969
 GameObject:
@@ -18256,6 +18256,7 @@ GameObject:
   m_Component:
   - component: {fileID: 343381091}
   - component: {fileID: 343381092}
+  - component: {fileID: 343381093}
   m_Layer: 0
   m_Name: Plant (4)
   m_TagString: Untagged
@@ -18301,6 +18302,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.6357589, y: 2.4573832}
   m_EdgeRadius: 0
+--- !u!114 &343381093
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 343381090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: Fresh!
 --- !u!1 &387499284
 GameObject:
   m_ObjectHideFlags: 0
@@ -18465,7 +18480,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   text1: Locked. *Woof*
-  timeInbetween: 0
+  timeInbetween: 1.5
   text2: '"I need to get this open somehow..."'
 --- !u!1 &445264139
 GameObject:
@@ -19073,6 +19088,7 @@ GameObject:
   m_Component:
   - component: {fileID: 630909826}
   - component: {fileID: 630909827}
+  - component: {fileID: 630909828}
   m_Layer: 0
   m_Name: Plant (1)
   m_TagString: Untagged
@@ -19118,6 +19134,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.6357589, y: 2.4573832}
   m_EdgeRadius: 0
+--- !u!114 &630909828
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 630909825}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1
+  text2: Fresh!
 --- !u!1 &647315595
 GameObject:
   m_ObjectHideFlags: 0
@@ -20835,6 +20865,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1301174123}
   - component: {fileID: 1301174124}
+  - component: {fileID: 1301174125}
   m_Layer: 0
   m_Name: Plant (2)
   m_TagString: Untagged
@@ -20880,6 +20911,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.6357589, y: 2.4573832}
   m_EdgeRadius: 0
+--- !u!114 &1301174125
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1301174122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: Smells like the outdoors...
 --- !u!1 &1310918318
 GameObject:
   m_ObjectHideFlags: 0
@@ -21307,6 +21352,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1512490475}
   - component: {fileID: 1512490476}
+  - component: {fileID: 1512490477}
   m_Layer: 0
   m_Name: Plant
   m_TagString: Untagged
@@ -21352,6 +21398,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.6357589, y: 2.4573832}
   m_EdgeRadius: 0
+--- !u!114 &1512490477
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1512490474}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: I wish I could be outside...
 --- !u!1 &1514497028
 GameObject:
   m_ObjectHideFlags: 0
@@ -25706,6 +25766,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1932149707}
   - component: {fileID: 1932149708}
+  - component: {fileID: 1932149709}
   m_Layer: 0
   m_Name: Plant (3)
   m_TagString: Untagged
@@ -25751,6 +25812,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.6357589, y: 2.4573832}
   m_EdgeRadius: 0
+--- !u!114 &1932149709
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1932149706}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: I wish I could be outside...
 --- !u!1 &1960465469
 GameObject:
   m_ObjectHideFlags: 0
