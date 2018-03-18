@@ -1659,6 +1659,16 @@ Prefab:
       propertyPath: direction
       value: Down
       objectReference: {fileID: 0}
+    - target: {fileID: 114689971211517712, guid: f49b96523057b4d0b86d133ee94b5bbd,
+        type: 2}
+      propertyPath: moveSpeed
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114689971211517712, guid: f49b96523057b4d0b86d133ee94b5bbd,
+        type: 2}
+      propertyPath: waitTime
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f49b96523057b4d0b86d133ee94b5bbd, type: 2}
   m_IsPrefabParent: 0
