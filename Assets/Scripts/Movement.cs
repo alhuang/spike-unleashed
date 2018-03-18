@@ -43,7 +43,7 @@ public class Movement : MonoBehaviour {
 	IEnumerator Wait()
 	{
 		canMove = false;
-		yield return new WaitForSeconds(9f);
+		yield return new WaitForSeconds(11f);
 		canMove = true;
 	}
 

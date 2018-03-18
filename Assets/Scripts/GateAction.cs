@@ -43,8 +43,8 @@ public class GateAction : MonoBehaviour {
         GetComponentInChildren<SpriteRenderer>().sprite = brokenWire;
         fenceClosed.SetActive(false);
         fenceOpen.SetActive(true);
-        yield return new WaitForSeconds(.1f);
-        for (int i = 1; i < 3; i++)
+        yield return new WaitForSeconds(.2f);
+        for (int i = 1; i < 5; i++)
         {
             fenceClosed.SetActive(true);
             fenceOpen.SetActive(false);
