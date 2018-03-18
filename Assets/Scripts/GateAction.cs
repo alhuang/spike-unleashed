@@ -34,10 +34,12 @@ public class GateAction : MonoBehaviour {
     private void PhaseFence()
     {
         StartCoroutine(BlinkyFence());
+
     }
     
     IEnumerator BlinkyFence()
     {
+        PanelController.instance.Dog("*Woof* ...???");
         GetComponentInChildren<SpriteRenderer>().sprite = brokenWire;
         fenceClosed.SetActive(false);
         fenceOpen.SetActive(true);
@@ -55,6 +57,7 @@ public class GateAction : MonoBehaviour {
         {
             pa.spaceClicked -= PhaseFence;
         }
+        PanelController.instance.Dog("*Woof* Freedom!! *Woof*");
         gameObject.SetActive(false);
     }
 }
