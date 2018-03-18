@@ -7,8 +7,12 @@ public class EnemyMove : MonoBehaviour {
 	private bool initial = true;
 	private bool stopped = true;
 	public string direction = "Right";
-	public float moveSpeed = 4; 
 
+	public bool second = false;
+	public float moveSpeed = 4; 
+	public float waitTime = 1; 
+
+	public GameObject hair;
 	Direction direct;
 	Rigidbody2D rigid;
 
@@ -23,16 +27,25 @@ public class EnemyMove : MonoBehaviour {
 		if (!stopped) {
 			Vector3 position = rigid.velocity;
 			if (direction == "Right") {
-				position = new Vector3(moveSpeed, 0, 0);
-			} else if(direction == "Left") {
-				position = new Vector3(-moveSpeed, 0, 0);
-			} else if(direction == "Up") {
-				position = new Vector3(0, moveSpeed, 0);
-			} else if(direction == "Down") {
-				position = new Vector3(0, -moveSpeed, 0);
+				position = new Vector3 (moveSpeed, 0, 0);
+			} else if (direction == "Left") {
+				position = new Vector3 (-moveSpeed, 0, 0);
+			} else if (direction == "Up") {
+				position = new Vector3 (0, moveSpeed, 0);
+			} else if (direction == "Down") {
+				position = new Vector3 (0, -moveSpeed, 0);
 			}
 
+			print (position);
 			rigid.velocity = position;
+		}
+		else {
+			rigid.velocity = Vector3.zero;
+		}
+
+		if (hair.GetComponent<HairdryerAction> ().CanMove () && stopped && !second) {
+			direction = "Right";
+			stopped = false;
 		}
 	}
 
@@ -42,16 +55,31 @@ public class EnemyMove : MonoBehaviour {
 		stopped = false;
 	}
 
-	void OnTriggerEnter(Collider other)
+	void OnTriggerEnter2D(Collider2D other)
 	{
-		print ("here");
 		if (LayerMask.LayerToName (other.gameObject.layer) == "Direction") {
-			direct = other.gameObject.GetComponent<Direction> ();
-			direction = direct.Direct ();
+			if ((other.gameObject.tag == "initial" && initial) ||
+			    (other.gameObject.tag == "next" && !initial)) {
+				if (second) {
+					stopped = true;
+					StartCoroutine (Wait ());
+				}
+				direct = other.gameObject.GetComponent<Direction> ();
+				direction = direct.Direct ();
+			}
 		} else if (LayerMask.LayerToName (other.gameObject.layer) == "Stop") {
+			if (!second) {
+				initial = false;
+			}
 			stopped = true;
+		} else if (LayerMask.LayerToName (other.gameObject.layer) == "Staircase") {
+			Destroy (this.gameObject);
 		}
 	}
 
-
+	IEnumerator Wait()
+	{
+		yield return new WaitForSeconds (waitTime);
+		stopped = false;
+	}
 }
