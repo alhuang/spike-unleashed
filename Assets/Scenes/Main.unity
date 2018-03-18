@@ -18193,10 +18193,9 @@ GameObject:
   m_Component:
   - component: {fileID: 339604578}
   - component: {fileID: 339604579}
-  - component: {fileID: 339604580}
   m_Layer: 0
   m_Name: Counter (1)
-  m_TagString: Trigger
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18239,20 +18238,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &339604580
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 339604577}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: Nothing interesting...
 --- !u!1 &341839364
 GameObject:
   m_ObjectHideFlags: 0
@@ -26251,10 +26236,9 @@ GameObject:
   m_Component:
   - component: {fileID: 2103429366}
   - component: {fileID: 2103429367}
-  - component: {fileID: 2103429368}
   m_Layer: 0
   m_Name: Counter
-  m_TagString: Trigger
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26297,20 +26281,6 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!114 &2103429368
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2103429365}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: '*Bark*'
 --- !u!1001 &2133294826
 Prefab:
   m_ObjectHideFlags: 0
