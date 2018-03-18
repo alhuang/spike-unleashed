@@ -22,7 +22,8 @@ public class PanelController : MonoBehaviour {
 
 	void Start()
 	{
-		i = GetComponentsInChildren<Image>()[0];
+		//i = GetComponentsInChildren<Image>()[0];
+		i = transform.Find("Image").gameObject.GetComponent<Image>();
 		//text = GetComponentInChildren<Text>();
 		typewriter = GetComponentsInChildren<UITypewriterEffect>()[0];
 	}
