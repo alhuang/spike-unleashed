@@ -12,6 +12,8 @@ public class PanelController : MonoBehaviour {
 	Image i;
 	Text text;
 
+    Coroutine clearing;
+
 	// Use this for initialization
 	void Awake () {
 		if (instance == null)
@@ -29,14 +31,35 @@ public class PanelController : MonoBehaviour {
 	}
 
 	public void Dog(string text)
-	{
-		i.sprite = dogSprite;
+    {
+        if (clearing != null)
+        {
+            StopCoroutine(clearing);
+        }
+        i.gameObject.SetActive(true);
+        typewriter.gameObject.SetActive(true);
+        i.sprite = dogSprite;
 		typewriter.ChangeText(text);
-	}
+        clearing = StartCoroutine(Clear());
+    }
 
 	public void Human(string text)
-	{
-		i.sprite = humanSprite;
+    {
+        if (clearing != null)
+        {
+            StopCoroutine(clearing);
+        }
+        i.gameObject.SetActive(true);
+        typewriter.gameObject.SetActive(true);
+        i.sprite = humanSprite;
 		typewriter.ChangeText(text);
-	}
+        clearing = StartCoroutine(Clear());
+    }
+
+    IEnumerator Clear()
+    {
+        yield return new WaitForSeconds(10);
+        i.gameObject.SetActive(false);
+        typewriter.gameObject.SetActive(false);
+    }
 }
