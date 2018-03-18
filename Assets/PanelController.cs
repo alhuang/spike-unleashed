@@ -36,6 +36,7 @@ public class PanelController : MonoBehaviour {
         {
             StopCoroutine(clearing);
         }
+        i.enabled = false;
         typewriter.gameObject.SetActive(true);
         typewriter.ChangeText(text);
         clearing = StartCoroutine(Clear());
