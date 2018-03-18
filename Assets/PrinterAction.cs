@@ -31,12 +31,14 @@ public class PrinterAction : MonoBehaviour {
 	private void blowup()
 	{
 		if (!yes)
-		{
-			Instantiate(smoke, new Vector3(-5.2f, -1f), Quaternion.Euler(-90f, 0f, 0f));
+        {
+            yes = true;
+            PanelController.instance.Dog("Ah... Much better");
+            Instantiate(smoke, new Vector3(-5.2f, -1f), Quaternion.Euler(-90f, 0f, 0f));
 			Instantiate(pee, new Vector3(-3.5f, -2f), Quaternion.identity);
 			pa.spaceClicked -= blowup;
 			GetComponent<BoxCollider2D>().enabled = false;
-			yes = true;
+
 		}
 	}
 
