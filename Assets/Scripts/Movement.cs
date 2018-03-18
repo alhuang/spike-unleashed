@@ -9,6 +9,7 @@ public class Movement : MonoBehaviour {
 	public float moveSpeed = 5;
 	public GameObject space;
 	public AudioClip woofclip;
+	public AudioClip phonering;
 	bool canMove = false;
 	bool woof = false;
 
@@ -58,7 +59,9 @@ public class Movement : MonoBehaviour {
 	IEnumerator Wait()
 	{
 		canMove = false;
-		yield return new WaitForSeconds(11.5f);
+		yield return new WaitForSeconds(1f);
+		AudioSource.PlayClipAtPoint(phonering, Camera.main.transform.position);
+		yield return new WaitForSeconds(10f);
 		canMove = true;
 	}
 
