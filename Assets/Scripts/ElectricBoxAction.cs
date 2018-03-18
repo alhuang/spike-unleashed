@@ -5,11 +5,12 @@ using UnityEngine;
 public class ElectricBoxAction : MonoBehaviour {
 
     public GameObject door;
+    public Sprite brokenWire;
+    public GameObject wire;
 
     private bool attached = false;
 
     private PlayerAction pa;
-    public Sprite brokenWire;
 
     private void OnTriggerEnter2D(Collider2D collision) {
         pa = collision.gameObject.GetComponent<PlayerAction>();
@@ -32,17 +33,18 @@ public class ElectricBoxAction : MonoBehaviour {
     }
 
     IEnumerator BlinkyDoor() {
-        GetComponentInChildren<SpriteRenderer>().sprite = brokenWire;
+        wire.GetComponent<SpriteRenderer>().sprite = brokenWire;
         door.SetActive(true);
-        yield return new WaitForSeconds(.2f);
-        for (int i = 1; i < 4; i++) {
+        yield return new WaitForSeconds(.1f);
+        for (int i = 1; i < 3; i++) {
             door.SetActive(false);
-            yield return new WaitForSeconds(0.2f * i);
+            yield return new WaitForSeconds(0.1f * i);
             door.SetActive(true);
+            yield return new WaitForSeconds(0.1f * i);
+            door.SetActive(false);
         }
         if (attached) {
             pa.spaceClicked -= RemoveDoor;
         }
-        gameObject.SetActive(false);
     }
 }
