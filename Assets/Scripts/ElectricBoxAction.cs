@@ -31,7 +31,6 @@ public class ElectricBoxAction : MonoBehaviour {
 
     private void RemoveDoor() {
         StartCoroutine(BlinkyDoor());
-		pa.spaceClicked -= RemoveDoor;
 		GetComponent<BoxCollider2D>().enabled = false;
     }
 
