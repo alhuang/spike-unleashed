@@ -7,6 +7,8 @@ public class HairdryerAction : MonoBehaviour {
     public GameObject destinationObj;
 	public GameObject sparks;
 	public GameObject lights;
+
+	private bool canMove = false;
     private bool act = false;
 	public float flickertime = 0.1f;
 
@@ -47,6 +49,8 @@ public class HairdryerAction : MonoBehaviour {
 		lights.SetActive(false);
 		yield return new WaitForSeconds(flickertime);
 		lights.SetActive(true);
+		canMove = true;
+
 
 	}
 
@@ -75,4 +79,8 @@ public class HairdryerAction : MonoBehaviour {
 		StartCoroutine(HairDryer());
     }
 
+	public bool CanMove()
+	{
+		return canMove;
+	}
 }
