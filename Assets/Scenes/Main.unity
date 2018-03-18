@@ -19116,6 +19116,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   smoke: {fileID: 100000, guid: 5a97962f7d5ba4df0823334b52c7c02c, type: 2}
   pee: {fileID: 1990662410734390, guid: a80b15838a6f93045aaeed61d1bd045b, type: 2}
+  spark: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
 --- !u!61 &832369594
 BoxCollider2D:
   m_ObjectHideFlags: 0
