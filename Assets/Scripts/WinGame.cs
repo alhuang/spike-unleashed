@@ -21,8 +21,8 @@ public class WinGame : MonoBehaviour {
 
     IEnumerator Win() {
         yield return new WaitForSeconds(0.5f);
-        PanelController.instance.Dog("I'm out! Yay, freedom!!!");
+        PanelController.instance.Dog("I'm out! *Woof* Yay, freedom!!! *Woof*");
         yield return new WaitForSeconds(3f);
-        SceneManager.LoadScene("Main");
+        SceneManager.LoadScene("TitleScreen");
     }
 }
