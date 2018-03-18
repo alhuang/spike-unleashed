@@ -21,15 +21,15 @@ public class Dialogue : MonoBehaviour {
 
 		yield return new WaitForSeconds(3.5f);
 
-		PanelController.instance.Human("Hello?...");
+		PanelController.instance.Human("Hello? ...");
 		yield return new WaitForSeconds(1.5f);
 
-		PanelController.instance.Human("You want to buy Spike?");
-		yield return new WaitForSeconds(2f);
-		PanelController.instance.Human("Great! I'll finish the paperwork.");
-		yield return new WaitForSeconds(2.25f);
+		PanelController.instance.Human("Oh, you're interested in buying Spike?");
+		yield return new WaitForSeconds(3f);
+		PanelController.instance.Human("That's great! The puppy is playing in his pen right now.");
+		yield return new WaitForSeconds(4f);
 
-		PanelController.instance.Human("You can come by in 30 minutes.");
+		PanelController.instance.Human("Yes, I'll see you in 5 minutes!");
 
 	}
 }
