@@ -8,11 +8,17 @@ public class Movement : MonoBehaviour {
 	Rigidbody2D rigid;
 	public float moveSpeed = 5;
 	public GameObject space;
+	bool canMove = false;
 
 
 	// Use this for initialization
 	void Awake () {
 		rigid = this.GetComponent<Rigidbody2D> ();
+	}
+
+	void Start()
+	{
+		StartCoroutine(Wait());	
 	}
 
 	// Update is called once per frame
@@ -21,10 +27,24 @@ public class Movement : MonoBehaviour {
 		float xInput = Input.GetAxisRaw ("Horizontal");
 		float yInput = Input.GetAxisRaw ("Vertical");
 
-		Vector2 velocity = new Vector2 (xInput, yInput);
-		velocity *= moveSpeed;
+		if (canMove)
+		{
+			Vector2 velocity = new Vector2(xInput, yInput);
+			velocity *= moveSpeed;
 
-		rigid.velocity = velocity;
+			rigid.velocity = velocity;
+		}
+		else
+		{
+			rigid.velocity = Vector2.zero;
+		}
+	}
+
+	IEnumerator Wait()
+	{
+		canMove = false;
+		yield return new WaitForSeconds(9f);
+		canMove = true;
 	}
 
 	void OnCollisionEnter(Collision other)
