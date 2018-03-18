@@ -51,7 +51,7 @@ public class EnemyMove : MonoBehaviour {
 
 	IEnumerator Initial()
 	{
-		yield return new WaitForSeconds (2);
+		yield return new WaitForSeconds (6);
 		stopped = false;
 	}
 
