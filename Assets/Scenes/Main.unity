@@ -957,9 +957,10 @@ GameObject:
   m_Component:
   - component: {fileID: 220291593}
   - component: {fileID: 220291594}
+  - component: {fileID: 220291595}
   m_Layer: 0
   m_Name: TV
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1002,6 +1003,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &220291595
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 220291592}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: This weird box has people in it sometimes!
 --- !u!1001 &236389732
 Prefab:
   m_ObjectHideFlags: 0
@@ -17792,9 +17807,10 @@ GameObject:
   m_Component:
   - component: {fileID: 286611597}
   - component: {fileID: 286611598}
+  - component: {fileID: 286611599}
   m_Layer: 0
   m_Name: Sofa (1)
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17837,6 +17853,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &286611599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 286611596}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: I'm not allowed on there
 --- !u!1 &306813933
 GameObject:
   m_ObjectHideFlags: 0
@@ -18684,7 +18714,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4116463816079152, guid: f49b96523057b4d0b86d133ee94b5bbd, type: 2}
       propertyPath: m_RootOrder
-      value: 14
+      value: 13
       objectReference: {fileID: 0}
     - target: {fileID: 114689971211517712, guid: f49b96523057b4d0b86d133ee94b5bbd,
         type: 2}
@@ -19237,9 +19267,10 @@ GameObject:
   m_Component:
   - component: {fileID: 719367093}
   - component: {fileID: 719367094}
+  - component: {fileID: 719367095}
   m_Layer: 0
   m_Name: Toilet
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19282,6 +19313,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &719367095
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 719367092}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Not thirsty...
 --- !u!1 &721075409
 GameObject:
   m_ObjectHideFlags: 0
@@ -19361,9 +19406,10 @@ GameObject:
   m_Component:
   - component: {fileID: 812663876}
   - component: {fileID: 812663877}
+  - component: {fileID: 812663878}
   m_Layer: 0
   m_Name: Plant
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19406,6 +19452,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &812663878
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 812663875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1
+  text2: Fresh!
 --- !u!1 &822866311
 GameObject:
   m_ObjectHideFlags: 0
@@ -19639,9 +19699,10 @@ GameObject:
   m_Component:
   - component: {fileID: 866446163}
   - component: {fileID: 866446164}
+  - component: {fileID: 866446165}
   m_Layer: 0
   m_Name: Plant (1)
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -19684,6 +19745,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &866446165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 866446162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: I wish I could be outside...
 --- !u!1 &889665437
 GameObject:
   m_ObjectHideFlags: 0
@@ -20356,7 +20431,7 @@ Transform:
   - {fileID: 1241643122}
   - {fileID: 1573150240}
   m_Father: {fileID: 0}
-  m_RootOrder: 13
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1167827899
 GameObject:
@@ -20367,9 +20442,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1167827900}
   - component: {fileID: 1167827901}
+  - component: {fileID: 1167827902}
   m_Layer: 0
   m_Name: Plant
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20412,6 +20488,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1167827902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1167827899}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: Smells like the outdoors...
 --- !u!1 &1184952066
 GameObject:
   m_ObjectHideFlags: 0
@@ -25899,9 +25989,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1961366213}
   - component: {fileID: 1961366214}
+  - component: {fileID: 1961366215}
   m_Layer: 0
   m_Name: Sofa
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25944,6 +26035,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1961366215
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1961366212}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: I'm not allowed on there
 --- !u!1 &1995898481
 GameObject:
   m_ObjectHideFlags: 0
