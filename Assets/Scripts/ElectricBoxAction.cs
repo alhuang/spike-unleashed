@@ -7,6 +7,7 @@ public class ElectricBoxAction : MonoBehaviour {
     public GameObject door;
     public Sprite brokenWire;
     public GameObject wire;
+	public AudioClip buzz;
 
     private bool attached = false;
 
@@ -38,6 +39,7 @@ public class ElectricBoxAction : MonoBehaviour {
         wire.GetComponent<SpriteRenderer>().sprite = brokenWire;
         door.SetActive(true);
         yield return new WaitForSeconds(.1f);
+		AudioSource.PlayClipAtPoint(buzz, Camera.main.transform.position);
         for (int i = 1; i < 3; i++) {
             door.SetActive(false);
             yield return new WaitForSeconds(0.1f * i);

@@ -5,6 +5,9 @@ using UnityEngine.SceneManagement;
 
 public class WinGame : MonoBehaviour {
 
+	public GameObject dog;
+	bool lerp = false;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -12,7 +15,10 @@ public class WinGame : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (lerp)
+		{
+			Camera.main.transform.position = Vector3.Lerp(Camera.main.transform.position, new Vector3(20f, -35f, -5f), .1f);
+		}
 	}
 
     void OnTriggerEnter2D(Collider2D collision) {
@@ -22,7 +28,9 @@ public class WinGame : MonoBehaviour {
     IEnumerator Win() {
         yield return new WaitForSeconds(0.5f);
         PanelController.instance.Dog("I'm out! Yay, freedom!!!");
+		lerp = true;
         yield return new WaitForSeconds(3f);
-        SceneManager.LoadScene("Main");
+
+        //SceneManager.LoadScene("Main");
     }
 }
