@@ -12,7 +12,7 @@ public class EnemyMove : MonoBehaviour {
 	public float moveSpeed = 4; 
 	public float waitTime = 1; 
 
-	public GameObject hair;
+	public GameObject hair = null;
 	Direction direct;
 	Rigidbody2D rigid;
 
