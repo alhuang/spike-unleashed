@@ -10,7 +10,7 @@ public class Movement : MonoBehaviour {
 	public GameObject space;
 	public AudioClip woofclip;
 	public AudioClip phonering;
-	bool canMove = false;
+	public bool canMove = false;
 	bool woof = false;
 
 

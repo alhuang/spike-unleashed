@@ -14,12 +14,15 @@ public class CatchDog : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		
+		if (dogCaught) {
+            GetComponentInParent<EnemyMove>().moveSpeed = 0;
+        }
 	}
 
     void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.CompareTag("Dog")) {
             if (!dogCaught) {
+                other.gameObject.GetComponent<Movement>().canMove = false;
                 StartCoroutine(ResetDog(other));
             }
             dogCaught = true;
