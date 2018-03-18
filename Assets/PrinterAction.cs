@@ -7,6 +7,7 @@ public class PrinterAction : MonoBehaviour {
 	public GameObject smoke;
 	public GameObject pee;
 	public GameObject spark;
+	public AudioClip electrocution;
 	PlayerAction pa;
 
 	bool yes = false;
@@ -36,6 +37,7 @@ public class PrinterAction : MonoBehaviour {
             yes = true;
             PanelController.instance.Dog("Ah... Much better");
             GameObject spa = (GameObject)Instantiate(spark, transform.position, Quaternion.identity);
+			AudioSource.PlayClipAtPoint(electrocution, Camera.main.transform.position);
 			Instantiate(smoke, new Vector3(-5.2f, -1f), Quaternion.Euler(-90f, 0f, 0f));
 			Instantiate(pee, new Vector3(-3.5f, -2f), Quaternion.identity);
 			pa.spaceClicked -= blowup;

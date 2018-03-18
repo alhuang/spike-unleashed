@@ -8,7 +8,10 @@ public class Movement : MonoBehaviour {
 	Rigidbody2D rigid;
 	public float moveSpeed = 5;
 	public GameObject space;
+	public AudioClip woofclip;
 	bool canMove = false;
+	bool woof = false;
+
 
 
 	// Use this for initialization
@@ -23,6 +26,11 @@ public class Movement : MonoBehaviour {
 
 	// Update is called once per frame
 	void Update () {
+		if (!woof)
+		{
+			AudioSource.PlayClipAtPoint(woofclip, Camera.main.transform.position);
+			StartCoroutine(woofer());
+		}
 
 		float xInput = Input.GetAxisRaw ("Horizontal");
 		float yInput = Input.GetAxisRaw ("Vertical");
@@ -38,6 +46,13 @@ public class Movement : MonoBehaviour {
 		{
 			rigid.velocity = Vector2.zero;
 		}
+	}
+
+	IEnumerator woofer()
+	{
+		woof = true;
+		yield return new WaitForSeconds(5f);
+		woof = false;
 	}
 
 	IEnumerator Wait()

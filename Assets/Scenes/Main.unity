@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -325,6 +325,7 @@ MonoBehaviour:
   destinationObj: {fileID: 1832002500}
   sparks: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
   lights: {fileID: 822866311}
+  electrocution: {fileID: 8300000, guid: b133cad92c4da8545b6a7f7b784a8822, type: 3}
   flickertime: 0.1
 --- !u!212 &22524449
 SpriteRenderer:
@@ -605,6 +606,11 @@ Prefab:
       propertyPath: camPos.z
       value: -18
       objectReference: {fileID: 0}
+    - target: {fileID: 114379044435368796, guid: db220baddb4be854cadf53237f7d9d05,
+        type: 2}
+      propertyPath: darkness
+      value: 
+      objectReference: {fileID: 822866311}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: db220baddb4be854cadf53237f7d9d05, type: 2}
   m_IsPrefabParent: 0
@@ -17776,6 +17782,7 @@ MonoBehaviour:
   mainCamera: {fileID: 0}
   camPos: {x: 0, y: 0, z: 0}
   dogPos: {x: 0, y: 0, z: 0}
+  darkness: {fileID: 0}
 --- !u!114 &329435399
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -19117,6 +19124,7 @@ MonoBehaviour:
   smoke: {fileID: 100000, guid: 5a97962f7d5ba4df0823334b52c7c02c, type: 2}
   pee: {fileID: 1990662410734390, guid: a80b15838a6f93045aaeed61d1bd045b, type: 2}
   spark: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
+  electrocution: {fileID: 8300000, guid: b133cad92c4da8545b6a7f7b784a8822, type: 3}
 --- !u!61 &832369594
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20327,6 +20335,11 @@ Prefab:
       propertyPath: space
       value: 
       objectReference: {fileID: 1514497028}
+    - target: {fileID: 114645343908141120, guid: 12ae26a743cbc4253af574bea3142177,
+        type: 2}
+      propertyPath: woofclip
+      value: 
+      objectReference: {fileID: 8300000, guid: ee4788b4ee968994ea4cd923423787ae, type: 3}
     - target: {fileID: 1742592261462558, guid: 12ae26a743cbc4253af574bea3142177, type: 2}
       propertyPath: m_TagString
       value: Dog
@@ -21043,6 +21056,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 114065158230997446, guid: 9428eace41656a248ae8bbb49dd83539,
+        type: 2}
+      propertyPath: buzz
+      value: 
+      objectReference: {fileID: 8300000, guid: 4e1a14f6c4e77ff438f6a009a95a9569, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9428eace41656a248ae8bbb49dd83539, type: 2}
   m_IsPrefabParent: 0

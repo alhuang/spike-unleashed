@@ -5,6 +5,7 @@ using UnityEngine;
 public class GateAction : MonoBehaviour {
     public GameObject fenceClosed;
     public GameObject fenceOpen;
+	public AudioClip buzz;
 
     private bool attached = false;
 
@@ -43,9 +44,10 @@ public class GateAction : MonoBehaviour {
         fenceClosed.SetActive(false);
         fenceOpen.SetActive(true);
         yield return new WaitForSeconds(.2f);
+		AudioSource.PlayClipAtPoint(buzz, Camera.main.transform.position);
         for (int i = 1; i < 5; i++)
-        {
-            fenceClosed.SetActive(true);
+		{
+			fenceClosed.SetActive(true);
             fenceOpen.SetActive(false);
             yield return new WaitForSeconds(0.1f * i);
             fenceClosed.SetActive(false);

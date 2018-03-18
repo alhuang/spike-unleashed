@@ -7,6 +7,7 @@ public class HairdryerAction : MonoBehaviour {
     public GameObject destinationObj;
 	public GameObject sparks;
 	public GameObject lights;
+	public AudioClip electrocution;
 
 	private bool canMove = false;
     private bool act = false;
@@ -38,6 +39,7 @@ public class HairdryerAction : MonoBehaviour {
 				transform.position = Vector3.Lerp(transform.position, destinationObj.transform.position, 6 * Time.deltaTime);
 			yield return new WaitForEndOfFrame();
 		}
+		AudioSource.PlayClipAtPoint(electrocution, Camera.main.transform.position);
 		lights.SetActive(true);
 		yield return new WaitForSeconds(flickertime);
 		lights.SetActive(false);
