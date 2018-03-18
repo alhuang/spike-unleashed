@@ -10,6 +10,8 @@ public class UITypewriterEffect : MonoBehaviour
 	Text txt;
 	string story;
 
+    Coroutine playingText;
+
 	void Awake()
 	{
 		txt = GetComponent<Text>();
@@ -26,8 +28,13 @@ public class UITypewriterEffect : MonoBehaviour
 		story = dialogue;
 		txt.text = "";
 
+        if (playingText != null)
+        {
+            StopCoroutine(playingText);
+        }
+
 		// TODO: add optional delay when to start
-		StartCoroutine("PlayText");
+		playingText = StartCoroutine("PlayText");
 	}
 
 	IEnumerator PlayText()

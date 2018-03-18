@@ -8,6 +8,7 @@ TagManager:
   - next
   - Trigger
   - Stairs
+  - Dog
   layers:
   - Default
   - TransparentFX

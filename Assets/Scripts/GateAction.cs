@@ -35,7 +35,6 @@ public class GateAction : MonoBehaviour {
     private void PhaseFence()
     {
         StartCoroutine(BlinkyFence());
-
     }
     
     IEnumerator BlinkyFence()
@@ -44,11 +43,11 @@ public class GateAction : MonoBehaviour {
         GetComponentInChildren<SpriteRenderer>().sprite = brokenWire;
         fenceClosed.SetActive(false);
         fenceOpen.SetActive(true);
-        yield return new WaitForSeconds(.1f);
+        yield return new WaitForSeconds(.2f);
 		AudioSource.PlayClipAtPoint(buzz, Camera.main.transform.position);
-        for (int i = 1; i < 3; i++)
-        {
-            fenceClosed.SetActive(true);
+        for (int i = 1; i < 5; i++)
+		{
+			fenceClosed.SetActive(true);
             fenceOpen.SetActive(false);
             yield return new WaitForSeconds(0.1f * i);
             fenceClosed.SetActive(false);
