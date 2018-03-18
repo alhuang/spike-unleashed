@@ -17,6 +17,16 @@ public class UITypewriterEffect : MonoBehaviour
 		txt.text = "";
 
 		// TODO: add optional delay when to start
+		//StartCoroutine("PlayText");
+	}
+
+	public void ChangeText(string dialogue)
+	{
+		txt = GetComponent<Text>();
+		story = dialogue;
+		txt.text = "";
+
+		// TODO: add optional delay when to start
 		StartCoroutine("PlayText");
 	}
 
