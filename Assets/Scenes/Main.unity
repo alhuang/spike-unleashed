@@ -325,6 +325,7 @@ MonoBehaviour:
   destinationObj: {fileID: 1832002500}
   sparks: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
   lights: {fileID: 822866311}
+  electrocution: {fileID: 8300000, guid: b133cad92c4da8545b6a7f7b784a8822, type: 3}
   flickertime: 0.1
 --- !u!212 &22524449
 SpriteRenderer:
@@ -19117,6 +19118,7 @@ MonoBehaviour:
   smoke: {fileID: 100000, guid: 5a97962f7d5ba4df0823334b52c7c02c, type: 2}
   pee: {fileID: 1990662410734390, guid: a80b15838a6f93045aaeed61d1bd045b, type: 2}
   spark: {fileID: 1589414322358518, guid: 06720834cda8c094495fd6af48f548ca, type: 2}
+  electrocution: {fileID: 8300000, guid: b133cad92c4da8545b6a7f7b784a8822, type: 3}
 --- !u!61 &832369594
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20327,6 +20329,11 @@ Prefab:
       propertyPath: space
       value: 
       objectReference: {fileID: 1514497028}
+    - target: {fileID: 114645343908141120, guid: 12ae26a743cbc4253af574bea3142177,
+        type: 2}
+      propertyPath: woofclip
+      value: 
+      objectReference: {fileID: 8300000, guid: ee4788b4ee968994ea4cd923423787ae, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 12ae26a743cbc4253af574bea3142177, type: 2}
   m_IsPrefabParent: 0
@@ -21039,6 +21046,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 15
       objectReference: {fileID: 0}
+    - target: {fileID: 114065158230997446, guid: 9428eace41656a248ae8bbb49dd83539,
+        type: 2}
+      propertyPath: buzz
+      value: 
+      objectReference: {fileID: 8300000, guid: 4e1a14f6c4e77ff438f6a009a95a9569, type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 9428eace41656a248ae8bbb49dd83539, type: 2}
   m_IsPrefabParent: 0
