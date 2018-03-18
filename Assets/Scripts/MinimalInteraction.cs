@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class DoorAction : MonoBehaviour {
+public class MinimalInteraction : MonoBehaviour {
+
+    public string text1;
+    public float timeInbetween;
+    public string text2;
 
     private bool attached = false;
 
@@ -29,9 +33,9 @@ public class DoorAction : MonoBehaviour {
     }
 
     IEnumerator DoorDialogue() {
-        PanelController.instance.Dog("Locked. *Woof*");
-        yield return new WaitForSeconds(2f);
-        PanelController.instance.Dog("I need to get this open somehow...");
+        PanelController.instance.Dog(text1);
+        yield return new WaitForSeconds(timeInbetween);
+        PanelController.instance.Dog(text2);
         if (attached) {
             pa.spaceClicked -= InteractWithDoor;
         }

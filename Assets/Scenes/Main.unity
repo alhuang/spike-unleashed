@@ -505,6 +505,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text1: Locked. *Woof*
+  timeInbetween: 0
+  text2: I need to get this open somehow...
 --- !u!1 &49091969
 GameObject:
   m_ObjectHideFlags: 0
@@ -18461,6 +18464,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  text1: Locked. *Woof*
+  timeInbetween: 0
+  text2: '"I need to get this open somehow..."'
 --- !u!1 &445264139
 GameObject:
   m_ObjectHideFlags: 0
