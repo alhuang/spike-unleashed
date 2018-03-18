@@ -87,7 +87,7 @@ GameObject:
   - component: {fileID: 61829764078040696}
   m_Layer: 0
   m_Name: Gate Controller
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -255,7 +255,7 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1872455607739912}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 14.82, y: -9.74, z: 0}
+  m_LocalPosition: {x: -4.1139565, y: -11.460515, z: -0.028825141}
   m_LocalScale: {x: 2, y: 2, z: 1}
   m_Children:
   - {fileID: 4818962187466970}
@@ -340,7 +340,7 @@ Transform:
   m_GameObject: {fileID: 1381497364028254}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 1.912, y: -0.127, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1, y: 1, z: 0}
   m_Children:
   - {fileID: 4949850410873832}
   m_Father: {fileID: 4413822655834916}
@@ -366,8 +366,8 @@ Transform:
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1381234219044256}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.022, y: 0.023, z: 0}
-  m_LocalScale: {x: 0.2, y: 0.2, z: 1}
+  m_LocalPosition: {x: -0.07, y: -0.13, z: 0}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 1}
   m_Children: []
   m_Father: {fileID: 4804234895561472}
   m_RootOrder: 0
@@ -484,7 +484,7 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0.58080506, y: 0.08057213}
+  m_Offset: {x: 0.54010797, y: 0.08057213}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0, y: 0}
@@ -495,7 +495,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.4278922, y: 0.122903824}
+  m_Size: {x: 1.346498, y: 0.122903824}
   m_EdgeRadius: 0
 --- !u!114 &114065158230997446
 MonoBehaviour:
