@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -20799,9 +20799,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: Fresh scents!
 --- !u!1 &387499284
 GameObject:
   m_ObjectHideFlags: 0
@@ -21413,7 +21413,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f2dbdce3d8773241822d8299c414c5c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  dog: {fileID: 329435388}
+  dog: {fileID: 0}
 --- !u!1 &576226704
 GameObject:
   m_ObjectHideFlags: 0
@@ -21621,9 +21621,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: Fresh scents!
 --- !u!1 &647315595
 GameObject:
   m_ObjectHideFlags: 0
@@ -22895,7 +22895,7 @@ MonoBehaviour:
   door: {fileID: 438656524}
   brokenWire: {fileID: 21300000, guid: 283f0cfa81a452c41b8ce859feb3ea60, type: 3}
   wire: {fileID: 209825000}
-  buzz: {fileID: 8300000, guid: 4e1a14f6c4e77ff438f6a009a95a9569, type: 3}
+  buzz: {fileID: 0}
 --- !u!61 &1104169152
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -23363,7 +23363,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1, y: 1}
+  m_Size: {x: 0.6, y: 1}
   m_EdgeRadius: 0
 --- !u!1 &1279936602
 GameObject:
@@ -23570,9 +23570,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: 
+  text1: '*Sniff*'
+  timeInbetween: 1
+  text2: Smells like the outdoors...
 --- !u!1 &1310918318
 GameObject:
   m_ObjectHideFlags: 0
@@ -24162,9 +24162,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: I wish I could be outside...
 --- !u!1 &1514497028
 GameObject:
   m_ObjectHideFlags: 0
@@ -28626,9 +28626,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  text1: 
-  timeInbetween: 0
-  text2: 
+  text1: '*Sniff* *Sniff*'
+  timeInbetween: 1.5
+  text2: I wish I could be outside...
 --- !u!1 &1960465469
 GameObject:
   m_ObjectHideFlags: 0
