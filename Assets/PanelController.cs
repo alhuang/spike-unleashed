@@ -30,6 +30,17 @@ public class PanelController : MonoBehaviour {
 		typewriter = GetComponentsInChildren<UITypewriterEffect>()[0];
 	}
 
+    public void SFX(string text)
+    {
+        if (clearing != null)
+        {
+            StopCoroutine(clearing);
+        }
+        typewriter.gameObject.SetActive(true);
+        typewriter.ChangeText(text);
+        clearing = StartCoroutine(Clear());
+    }
+
 	public void Dog(string text)
     {
         if (clearing != null)
@@ -59,6 +70,11 @@ public class PanelController : MonoBehaviour {
     IEnumerator Clear()
     {
         yield return new WaitForSeconds(10);
+        ClearNow();
+    }
+
+    public void ClearNow()
+    {
         i.gameObject.SetActive(false);
         typewriter.gameObject.SetActive(false);
     }

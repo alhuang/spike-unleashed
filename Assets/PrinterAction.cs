@@ -32,8 +32,10 @@ public class PrinterAction : MonoBehaviour {
 	private void blowup()
 	{
 		if (!yes)
-		{
-			GameObject spa = (GameObject)Instantiate(spark, transform.position, Quaternion.identity);
+        {
+            yes = true;
+            PanelController.instance.Dog("Ah... Much better");
+            GameObject spa = (GameObject)Instantiate(spark, transform.position, Quaternion.identity);
 			Instantiate(smoke, new Vector3(-5.2f, -1f), Quaternion.Euler(-90f, 0f, 0f));
 			Instantiate(pee, new Vector3(-3.5f, -2f), Quaternion.identity);
 			pa.spaceClicked -= blowup;

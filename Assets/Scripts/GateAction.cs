@@ -34,7 +34,6 @@ public class GateAction : MonoBehaviour {
     private void PhaseFence()
     {
         StartCoroutine(BlinkyFence());
-
     }
     
     IEnumerator BlinkyFence()
