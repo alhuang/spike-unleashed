@@ -22,9 +22,9 @@ public class PanelController : MonoBehaviour {
 
 	void Start()
 	{
-		i = GetComponentInChildren<Image>();
+		i = GetComponentsInChildren<Image>()[0];
 		//text = GetComponentInChildren<Text>();
-		typewriter = GetComponentInChildren<UITypewriterEffect>();
+		typewriter = GetComponentsInChildren<UITypewriterEffect>()[0];
 	}
 
 	public void Dog(string text)

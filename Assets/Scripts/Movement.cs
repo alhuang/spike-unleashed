@@ -13,7 +13,7 @@ public class Movement : MonoBehaviour {
 	// Use this for initialization
 	void Awake () {
 		rigid = this.GetComponent<Rigidbody2D> ();
-
+		PanelController.instance.Dog("*woof* This place sucks! *woof*");
 	}
 	
 	// Update is called once per frame

@@ -17,7 +17,7 @@ public class UITypewriterEffect : MonoBehaviour
 		txt.text = "";
 
 		// TODO: add optional delay when to start
-		StartCoroutine("PlayText");
+		//StartCoroutine("PlayText");
 	}
 
 	public void ChangeText(string dialogue)
