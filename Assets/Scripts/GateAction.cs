@@ -60,5 +60,7 @@ public class GateAction : MonoBehaviour {
         }
         PanelController.instance.Dog("*Woof* Freedom!! *Woof*");
         gameObject.SetActive(false);
+        yield return new WaitForSeconds(3f);
+        PanelController.instance.Dog("Time to find a way outta here!! *Woof*");
     }
 }
