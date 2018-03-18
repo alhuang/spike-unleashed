@@ -5,6 +5,8 @@ using UnityEngine.SceneManagement;
 
 public class CatchDog : MonoBehaviour {
 
+    bool dogCaught = false;
+
 	// Use this for initialization
 	void Start () {
 		
@@ -17,9 +19,10 @@ public class CatchDog : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D other) {
         if (other.gameObject.CompareTag("Dog")) {
-            Debug.Log("Dog!");
-            StartCoroutine(ResetDog(other));
-
+            if (!dogCaught) {
+                StartCoroutine(ResetDog(other));
+            }
+            dogCaught = true;
         }
     }
 
