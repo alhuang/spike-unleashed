@@ -17,7 +17,7 @@ public class Dialogue : MonoBehaviour {
 	IEnumerator Intro() {
 		yield return new WaitForEndOfFrame();
 
-		PanelController.instance.Dog("*woof* This place sucks! *woof*");
+		PanelController.instance.Dog("*Woof* This place sucks! *Woof*");
 
 		yield return new WaitForSeconds(3.5f);
 
