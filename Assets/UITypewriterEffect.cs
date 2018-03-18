@@ -20,6 +20,16 @@ public class UITypewriterEffect : MonoBehaviour
 		StartCoroutine("PlayText");
 	}
 
+	public void ChangeText(string dialogue)
+	{
+		txt = GetComponent<Text>();
+		story = dialogue;
+		txt.text = "";
+
+		// TODO: add optional delay when to start
+		StartCoroutine("PlayText");
+	}
+
 	IEnumerator PlayText()
 	{
 		foreach (char c in story)
