@@ -9,9 +9,11 @@ public class Movement : MonoBehaviour {
 	public float moveSpeed = 5;
 	public GameObject space;
 
+
 	// Use this for initialization
 	void Awake () {
 		rigid = this.GetComponent<Rigidbody2D> ();
+		PanelController.instance.Dog("*woof* This place sucks! *woof*");
 	}
 	
 	// Update is called once per frame
