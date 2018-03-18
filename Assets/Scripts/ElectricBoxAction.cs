@@ -33,6 +33,7 @@ public class ElectricBoxAction : MonoBehaviour {
     }
 
     IEnumerator BlinkyDoor() {
+        PanelController.instance.Dog("The door unlocked! I can go outside!");
         wire.GetComponent<SpriteRenderer>().sprite = brokenWire;
         door.SetActive(true);
         yield return new WaitForSeconds(.1f);

@@ -17876,9 +17876,10 @@ GameObject:
   m_Component:
   - component: {fileID: 306813934}
   - component: {fileID: 306813935}
+  - component: {fileID: 306813936}
   m_Layer: 0
   m_Name: Left Side
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -17921,6 +17922,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.8, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &306813936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 306813933}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &319722575
 GameObject:
   m_ObjectHideFlags: 0
@@ -18178,9 +18193,10 @@ GameObject:
   m_Component:
   - component: {fileID: 339604578}
   - component: {fileID: 339604579}
+  - component: {fileID: 339604580}
   m_Layer: 0
   m_Name: Counter (1)
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18223,6 +18239,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &339604580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 339604577}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &341839364
 GameObject:
   m_ObjectHideFlags: 0
@@ -18355,9 +18385,10 @@ GameObject:
   m_Component:
   - component: {fileID: 387499285}
   - component: {fileID: 387499286}
+  - component: {fileID: 387499287}
   m_Layer: 0
   m_Name: Toilet
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -18400,6 +18431,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4195147, y: 2.3111963}
   m_EdgeRadius: 0
+--- !u!114 &387499287
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 387499284}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Not thirsty...
 --- !u!1 &438656524
 GameObject:
   m_ObjectHideFlags: 0
@@ -20511,9 +20556,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1184952067}
   - component: {fileID: 1184952068}
+  - component: {fileID: 1184952069}
   m_Layer: 0
   m_Name: Counters
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20556,6 +20602,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1184952069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1184952066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: I like to hide here and eat food that drops down
 --- !u!1 &1216742296
 GameObject:
   m_ObjectHideFlags: 0
@@ -20701,9 +20761,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1252378001}
   - component: {fileID: 1252378002}
+  - component: {fileID: 1252378003}
   m_Layer: 0
   m_Name: Refrigerator
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20746,6 +20807,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1252378003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1252378000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: '*Bark*'
+  timeInbetween: 1
+  text2: Yummy food is in there...
 --- !u!1 &1263516839
 GameObject:
   m_ObjectHideFlags: 0
@@ -20891,9 +20966,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1289550094}
   - component: {fileID: 1289550095}
+  - component: {fileID: 1289550096}
   m_Layer: 0
   m_Name: Counter
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -20936,6 +21012,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1289550096
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1289550093}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &1301174122
 GameObject:
   m_ObjectHideFlags: 0
@@ -21240,9 +21330,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1379119662}
   - component: {fileID: 1379119663}
+  - component: {fileID: 1379119664}
   m_Layer: 0
   m_Name: Desk
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21285,6 +21376,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 3.7983274, y: 1.6892099}
   m_EdgeRadius: 0
+--- !u!114 &1379119664
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1379119661}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &1419313870
 GameObject:
   m_ObjectHideFlags: 0
@@ -21644,9 +21749,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1538852786}
   - component: {fileID: 1538852787}
+  - component: {fileID: 1538852788}
   m_Layer: 0
   m_Name: Shelves
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -21689,6 +21795,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 7.6207676, y: 1.1439805}
   m_EdgeRadius: 0
+--- !u!114 &1538852788
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1538852785}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &1552385495
 GameObject:
   m_ObjectHideFlags: 0
@@ -25812,9 +25932,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1929202522}
   - component: {fileID: 1929202523}
+  - component: {fileID: 1929202524}
   m_Layer: 0
   m_Name: Table
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25857,6 +25978,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1929202524
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1929202521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: I like to hide here and eat food that drops down
 --- !u!1 &1932149706
 GameObject:
   m_ObjectHideFlags: 0
@@ -25935,9 +26070,10 @@ GameObject:
   m_Component:
   - component: {fileID: 1960465470}
   - component: {fileID: 1960465471}
+  - component: {fileID: 1960465472}
   m_Layer: 0
   m_Name: Counters
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -25980,6 +26116,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1.4, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &1960465472
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1960465469}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: Nothing interesting...
 --- !u!1 &1961366212
 GameObject:
   m_ObjectHideFlags: 0
@@ -26101,9 +26251,10 @@ GameObject:
   m_Component:
   - component: {fileID: 2103429366}
   - component: {fileID: 2103429367}
+  - component: {fileID: 2103429368}
   m_Layer: 0
   m_Name: Counter
-  m_TagString: Untagged
+  m_TagString: Trigger
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26146,6 +26297,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
+--- !u!114 &2103429368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 2103429365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6abfb82f8ea2f4146a984e26b1054b30, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  text1: 
+  timeInbetween: 0
+  text2: '*Bark*'
 --- !u!1001 &2133294826
 Prefab:
   m_ObjectHideFlags: 0
