@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class WinGame : MonoBehaviour {
 
@@ -20,6 +21,8 @@ public class WinGame : MonoBehaviour {
 
     IEnumerator Win() {
         yield return new WaitForSeconds(0.5f);
-        Debug.Log("Spike successfully escaped!");
+        PanelController.instance.Dog("I'm out! Yay, freedom!!!");
+        yield return new WaitForSeconds(3f);
+        SceneManager.LoadScene("Main");
     }
 }
