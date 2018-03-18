@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
 --- !u!157 &3
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -21272,7 +21272,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4817427457753876, guid: 5c3bbc7f660bfca48b5e9eac41aca900, type: 2}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 114822887693935454, guid: 5c3bbc7f660bfca48b5e9eac41aca900,
         type: 2}
@@ -21289,6 +21289,11 @@ Prefab:
       propertyPath: camPos.z
       value: -18
       objectReference: {fileID: 0}
+    - target: {fileID: 114822887693935454, guid: 5c3bbc7f660bfca48b5e9eac41aca900,
+        type: 2}
+      propertyPath: darkness
+      value: 
+      objectReference: {fileID: 822866311}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 5c3bbc7f660bfca48b5e9eac41aca900, type: 2}
   m_IsPrefabParent: 0
@@ -25254,7 +25259,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 2, y: 1}
+  m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
 --- !u!114 &1852782512
 MonoBehaviour:
@@ -25715,7 +25720,7 @@ Transform:
   - {fileID: 1745575817}
   - {fileID: 1032953253}
   m_Father: {fileID: 0}
-  m_RootOrder: 4
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2103429365
 GameObject:
