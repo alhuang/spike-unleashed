@@ -29,5 +29,6 @@ public class PoopAction : MonoBehaviour {
         GetComponent<SpriteRenderer>().enabled = true;
         GetComponent<BoxCollider2D>().enabled = false;
         pa.spaceClicked -= poop;
+        PanelController.instance.Dog("Heheh");
     }
 }
